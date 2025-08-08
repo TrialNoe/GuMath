@@ -1,2 +1,4 @@
 # GuMath
-This is my math learning log.
+这是我个人的数学学习记录，用Obsidian编辑，emm如果你在github上面直接看看到内容很乱是很正常的
+
+如果我的某些思路启发到你，发了很厉害的论文记得给我挂八作呀hh
