@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12da749ebbda0540",
+        "id": "67a62f92c1831452",
         "type": "tabs",
         "children": [
           {
-            "id": "2925b77c9729a3f4",
+            "id": "c11366ce33978513",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "邻域、领域半径.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "邻域、领域半径"
             }
           }
         ]
@@ -182,15 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2925b77c9729a3f4",
+  "active": "c11366ce33978513",
   "lastOpenFiles": [
+    "华南农业大学2022-2023学年第1学期T7.md",
+    "δ-ε语言.md",
     "利用绝对值的代数性质消除绝对值.md",
     "README.md",
     "自学指南.md",
     "Latex.md",
     "min函数.md",
-    "δ-ε语言.md",
-    "华南农业大学2022-2023学年第1学期T7.md",
     "新建 Text Document.txt",
     "Untitled 1.md",
     "Untitled.md",
