@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "358cf5f2cc67ab63",
+        "id": "12da749ebbda0540",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8008b4b57ba4fd",
+            "id": "2925b77c9729a3f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "利用绝对值的代数性质消除绝对值.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "利用绝对值的代数性质消除绝对值"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ]
@@ -181,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8008b4b57ba4fd",
+  "active": "2925b77c9729a3f4",
   "lastOpenFiles": [
+    "利用绝对值的代数性质消除绝对值.md",
     "README.md",
     "自学指南.md",
     "Latex.md",
@@ -208,7 +210,6 @@
     "常用代数变形.md",
     "(Todo)证明经典结论：函数可导必定连续.md",
     "复合函数连续性的传导法则.md",
-    "利用绝对值的代数性质消除绝对值.md",
     "用δ-ε语言证明二次函数极限存在的练习题2.md",
     "同除x的r次方求有理式无穷时的极限.md",
     "Untitled",
