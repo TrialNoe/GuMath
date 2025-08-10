@@ -12,6 +12,7 @@ than
 true
 tools
 trick
+their
 math
 much
 methods
@@ -29,6 +30,7 @@ enough
 ec
 exists
 emm
+each
 function
 funtion
 func
@@ -43,6 +45,7 @@ The
 Theorem
 Thus
 This
+Two
 Caculus
 Contents
 independent
@@ -54,6 +57,7 @@ if
 is
 ideas
 infty
+intersection
 variable
 values
 value
@@ -75,6 +79,7 @@ lt
 let
 learning
 log
+lines
 or
 oscillates
 oscillate
@@ -84,6 +89,7 @@ of
 other
 our
 obsidian
+orthogonal
 ceiling
 calcculus
 containing
@@ -92,6 +98,7 @@ calculus
 curve
 concluse
 cos
+curves
 substitute
 slope
 stay
@@ -142,6 +149,7 @@ puzzle
 point
 product
 pm
+perpendicular
 Quotient
 Rule
 Rightarrow
