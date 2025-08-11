@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "tag:#math_calculus",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#math_ideas_tools",
+      "query": "tag:#math_ideas_tools  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,13 +18,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.24803887539049,
-  "lineSizeMultiplier": 0.824729067839099,
+  "nodeSizeMultiplier": 1.85276717189248,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.851363338347025,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.7112136429716494,
+  "centerStrength": 0.355239307339273,
+  "repelStrength": 2.16822862432026,
+  "linkStrength": 0.947626210035096,
+  "linkDistance": 67,
+  "scale": 3.1711627780098848,
   "close": false
 }
