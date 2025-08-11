@@ -46,6 +46,7 @@ Theorem
 Thus
 This
 Two
+Try
 Caculus
 Contents
 independent
@@ -58,9 +59,12 @@ is
 ideas
 infty
 intersection
+idea
+ideasTools
 variable
 values
 value
+vault
 dependent
 doesn
 do
@@ -80,6 +84,7 @@ let
 learning
 log
 lines
+ln
 or
 oscillates
 oscillate
@@ -121,6 +126,7 @@ Squeeze
 Why
 have
 has
+hh
 whenever
 whose
 with
@@ -150,6 +156,8 @@ point
 product
 pm
 perpendicular
+pull
+project
 Quotient
 Rule
 Rightarrow
@@ -160,6 +168,7 @@ Leftrightarrow
 geq
 given
 goal
+github
 Approach
 AE
 Understanding
@@ -168,3 +177,4 @@ Prove
 Guess
 GuMath
 BF
+Obsidian
