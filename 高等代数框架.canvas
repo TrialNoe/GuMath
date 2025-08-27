@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"0cedddead825e7b3","type":"text","text":"n元线性方程组","x":-81,"y":-136,"width":191,"height":60},
+		{"id":"41c2a41e46f6b42f","type":"text","text":"N维向量空间","x":-110,"y":-37,"width":250,"height":60},
+		{"id":"18c8d60f3d27a9fa","type":"text","text":"矩阵","x":200,"y":-37,"width":99,"height":60},
+		{"id":"599fce51d2f93ae9","type":"text","text":"线性空间","x":-40,"y":80,"width":110,"height":60,"color":"3"},
+		{"id":"149826c63a7c1ac2","type":"text","text":"线性映射","x":193,"y":80,"width":114,"height":60,"color":"3"},
+		{"id":"25bd10d9f2e2cbb6","type":"text","text":"双线性函数","x":-220,"y":80,"width":127,"height":60},
+		{"id":"edbe271c481a4bac","type":"text","text":"具有度量的空间:欧式空间，酉空间，辛空间","x":-255,"y":220,"width":365,"height":60},
+		{"id":"b834aba9e82ff0fd","type":"text","text":"各种变换","x":250,"y":220,"width":110,"height":60}
+	],
+	"edges":[
+		{"id":"ba3e0a9dfd5d7bcc","fromNode":"0cedddead825e7b3","fromSide":"right","toNode":"18c8d60f3d27a9fa","toSide":"top"},
+		{"id":"636f6575d9bf3828","fromNode":"0cedddead825e7b3","fromSide":"bottom","toNode":"41c2a41e46f6b42f","toSide":"top"},
+		{"id":"9acd584beaf425e9","fromNode":"41c2a41e46f6b42f","fromSide":"bottom","toNode":"599fce51d2f93ae9","toSide":"top"},
+		{"id":"a9194a7cf5b4e0c9","fromNode":"18c8d60f3d27a9fa","fromSide":"bottom","toNode":"149826c63a7c1ac2","toSide":"top","fromEnd":"arrow"},
+		{"id":"b679f8791026f696","fromNode":"599fce51d2f93ae9","fromSide":"right","toNode":"149826c63a7c1ac2","toSide":"left"},
+		{"id":"06b63d73b61a0df9","fromNode":"599fce51d2f93ae9","fromSide":"left","toNode":"25bd10d9f2e2cbb6","toSide":"right"},
+		{"id":"c1fb90eca761de08","fromNode":"25bd10d9f2e2cbb6","fromSide":"bottom","toNode":"edbe271c481a4bac","toSide":"top"},
+		{"id":"2a520fa95f83fde4","fromNode":"599fce51d2f93ae9","fromSide":"bottom","toNode":"edbe271c481a4bac","toSide":"top"},
+		{"id":"9120fe83edd37f38","fromNode":"edbe271c481a4bac","fromSide":"right","toNode":"b834aba9e82ff0fd","toSide":"left"},
+		{"id":"ef8eb686456698b0","fromNode":"149826c63a7c1ac2","fromSide":"bottom","toNode":"b834aba9e82ff0fd","toSide":"top"}
+	]
+}

@@ -34,7 +34,7 @@ tags:
 >&=\lim_{x \to 0}\frac{\sin x}{x}
 >\end{align}
 >$$
->根据[[洛必达法则]]
+>根据[[洛必达法则求未定型的极限]]
 >$$
 >\begin{align}
 >&=\lim_{x\to0}\frac{cosx}{1}=\frac{\cos{0}}{1}=1

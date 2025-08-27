@@ -55,6 +55,7 @@ eqmA
 ege
 eO
 eKnfeuy
+edges
 function
 funtion
 func
@@ -94,6 +95,7 @@ TUUuj
 Tw
 TD
 Tg
+Template
 Caculus
 Contents
 Cxg
@@ -248,6 +250,7 @@ svV
 se
 sqrZ
 sr
+sn
 replace
 rL
 rp
@@ -336,6 +339,8 @@ aC
 aj
 ai
 aa
+advanced
+algebra
 It
 If
 IHDR
@@ -363,6 +368,7 @@ nI
 nr
 ny
 nHd
+nodes
 because
 between
 begin
@@ -370,6 +376,7 @@ bs
 bP
 bM
 bmm
+br
 Figure
 Find
 Fv
@@ -395,6 +402,7 @@ pH
 pC
 ps
 pu
+pmatrix
 Quotient
 QZ
 QU
@@ -421,6 +429,7 @@ RD
 RI
 RE
 RYQ
+Row
 Example
 EQa
 EP
@@ -701,6 +710,7 @@ Hu
 HT
 Hpw
 HP
+Hospital
 Mm
 Mi
 MQ
