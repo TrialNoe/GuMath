@@ -355,6 +355,7 @@ IKcK
 IY
 IK
 ID
+Its
 no
 not
 number
@@ -430,6 +431,7 @@ RI
 RE
 RYQ
 Row
+Rolle
 Example
 EQa
 EP
@@ -449,6 +451,7 @@ EEsg
 EV
 EX
 EG
+Exercise
 Latex
 Let
 Leftrightarrow
@@ -464,6 +467,7 @@ Ld
 LDFF
 Lee
 Lh
+Linear
 geq
 given
 goal
@@ -497,6 +501,8 @@ Av
 Af
 AA
 AH
+Algebra
+Application
 Understanding
 UU
 Uj

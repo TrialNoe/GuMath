@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "-file:README tag:#math_calculus  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -16,7 +16,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.85276717189248,
   "lineSizeMultiplier": 1,
@@ -25,6 +25,6 @@
   "repelStrength": 2.16822862432026,
   "linkStrength": 0.947626210035096,
   "linkDistance": 67,
-  "scale": 2.329492865371001,
+  "scale": 2.3294928653710003,
   "close": true
 }
