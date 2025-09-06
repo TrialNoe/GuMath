@@ -29,3 +29,5 @@ $$
 \end{align}
 $$
 
+不能再用拉格朗日中值定理，因为[[Langrange's Mean Value Theorem(拉格朗日中值定理)#内容|拉格朗日中值定理有前提条件]]要本来就连续
+
