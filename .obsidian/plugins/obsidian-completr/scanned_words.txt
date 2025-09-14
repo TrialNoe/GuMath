@@ -35,6 +35,7 @@ mmO
 mjn
 mll
 motion
+matrix
 elementary
 every
 equal
@@ -115,6 +116,7 @@ CJ
 CD
 CF
 CHpp
+Combination
 independent
 integer
 in
@@ -191,6 +193,7 @@ lm
 lw
 leE
 li
+linear
 or
 oscillates
 oscillate
@@ -257,6 +260,7 @@ se
 sqrZ
 sr
 sn
+span
 replace
 rL
 rp
@@ -282,6 +286,7 @@ SRz
 Sl
 SB
 SWW
+Span
 Why
 Wf
 WR
@@ -347,6 +352,7 @@ ai
 aa
 advanced
 algebra
+augumented
 It
 If
 IHDR
