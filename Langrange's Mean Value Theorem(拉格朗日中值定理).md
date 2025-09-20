@@ -1,10 +1,18 @@
+---
+tags:
+  - "#math"
+  - math_calculus
+---
 ## 内容
+> [!NOTE] 
+>
+
 
 > [!cite] 
 > 条件
 > 1. $f(x)$在$[a,b]$上面连续
 > 2. $f(x)$在$(a,b)$上面可导
-> 那么肯定有一点$c$满足$$f'(c)=\frac{f(a)-f(b)}{a-b}$$
+> 那么肯定存在一点$c$满足$$f'(c)=\frac{f(a)-f(b)}{a-b}$$
 ![[lagrange's mean value theorem 图示a.png|300]]
 ## 0-证明
 

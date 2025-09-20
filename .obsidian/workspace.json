@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通过导函数分解因式的方法看单调性.md",
+                "file": "华南农业大学2015~2016学年第1 学期解答题T2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通过导函数分解因式的方法看单调性"
+              "title": "华南农业大学2015~2016学年第1 学期解答题T2"
             }
           },
           {
-            "id": "87c53a7c8bf3d9ca",
+            "id": "7bbd3ab4b1e2ef3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "找凹凸区间中二倍角公式和三角恒等变换的抉择.md",
-                "mode": "source",
+                "file": "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "找凹凸区间中二倍角公式和三角恒等变换的抉择"
+              "title": "Langrange's Mean Value Theorem(拉格朗日中值定理)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "因式分解",
+                "query": "华南农业大学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,10 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87c53a7c8bf3d9ca",
+  "active": "ad849406e949f278",
   "lastOpenFiles": [
+    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
+    "华南农业大学2015~2016学年第1 学期解答题T2.md",
+    "华南农业大学2022-2023学年第1学期T7.md",
     "通过导函数分解因式的方法看单调性.md",
     "找凹凸区间中二倍角公式和三角恒等变换的抉择.md",
+    "Rolle's Theorem(罗尔中值定理).md",
+    "拉格朗日中值定理由导数导出部分原函数信息.md",
     "First and Second Derivative Tests在不同情况下的“性能”对比.md",
     "Second Derivative Tests失效.md",
     "First and Second Derivative Tests.md",
@@ -215,16 +219,11 @@
     "关于含根式求极限的换元解法.md",
     "Logarithmic Differentiation.md",
     "Concavity Test的证明.md",
-    "拉格朗日中值定理由导数导出部分原函数信息.md",
     "证明函数单调性的性质.md",
-    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
     "数学中记笔记的方法.md",
     "通过对换，约分简化高斯求解的计算量.md",
     "Linear Combination与线性方程组的几何含义对比理解.md",
     "linear combination.md",
-    "自学指南.md",
-    "同除x的r次方求有理式无穷时的极限.md",
-    "经典题：验证某一向量是否在Span内.md",
     "高等代数框架.canvas",
     "Untitled.base",
     "attached/Pasted image 20250819153857.png",
