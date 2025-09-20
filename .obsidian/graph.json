@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:README  tag:#math_advanced_algebra  ",
+  "search": "-file:README  tag:#math_calculus  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 2.16822862432026,
   "linkStrength": 0.947626210035096,
   "linkDistance": 67,
-  "scale": 1.7623403869470373,
+  "scale": 2.3354758503564574,
   "close": true
 }
