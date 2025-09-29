@@ -2,6 +2,7 @@
 tags:
   - "#math"
   - math_calculus
+  - math_ideas_tools
 ---
 ## 内容
 > [!NOTE] 

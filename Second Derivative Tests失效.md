@@ -20,7 +20,7 @@ f''(x)  & = 12(x-6)^2
 $$
 
 > [!fail]
-> 可以看见$f'(x)$显示了inflection point为6
+> 可以看见$f'(x)$显示了critical number为6
 > 但是进行[[First and Second Derivative Tests#Second Derivative Tests|Second Derivative Tests]]的时候，$f''(x)$为0，根本就不是正负的，好家伙就用不了[[First and Second Derivative Tests#Second Derivative Tests]]的观点完成解答了.
 
 

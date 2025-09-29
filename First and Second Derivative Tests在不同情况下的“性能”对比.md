@@ -20,7 +20,8 @@ $$
 | Interval        | $(x-1)^2$ | $x$ | $x-2$ | $f'(x)$ | $f(x)$     |
 | --------------- | --------- | --- | ----- | ------- | ---------- |
 | $(- \infty ,0)$ | $+$       | $-$ | $+$   | $-$     | $\swarrow$ |
-| $(0,2)$         | $+$       | $+$ | $-$   | $-$     | $\nwarrow$ |
+| $(0,1)$         | $+$       | $+$ | $-$   | $-$     | $\swarrow$ |
+| $(1,2)$         | $+$       | $+$ | $-$   | $-$     | $\nwarrow$ |
 | $(2,\infty)$    | $+$       | $+$ | $+$   | $+$     | $\nwarrow$ |
 
 #### 1.0.2 Second derivative Tests
@@ -46,6 +47,7 @@ $$
 
 #### 1.0.3 对比First and Second Derivative Tests
 
-很明显[[First and Second Derivative Tests#First Derivative Tests|First Derivative Tests]]**明显比**[[First and Second Derivative Tests#Second Derivative Tests|Second Derivative Tests]]**,性能要好。究其原因我认为如下
+很明显[[First and Second Derivative Tests#First Derivative Tests|First Derivative Tests]]**明显比**[[First and Second Derivative Tests#Second Derivative Tests|Second Derivative Tests]]**,性能要好。**
+究其原因我认为如下
 1. 和[[通过导函数分解因式的方法看单调性#1 经典立方差例子]]一样，$f'(x)$已经完成了因式分解，**First Derivative Tests可以直接看出正负**
 2. 因为$f'(x)$是一个分式Second Derivative Tests需要计算$f''(x)$，运算量急剧增加，导致很麻烦。

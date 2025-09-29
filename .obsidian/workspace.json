@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "954f16ad7a1636db",
+        "id": "317de8e4cb9e17ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8ebdd7f76cf2ac5d",
+            "id": "3c93e9ba055cc997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华南农业大学2015~2016学年第1 学期解答题T2.md",
+                "file": "函数与极限的关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "华南农业大学2015~2016学年第1 学期解答题T2"
-            }
-          },
-          {
-            "id": "7bbd3ab4b1e2ef3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Langrange's Mean Value Theorem(拉格朗日中值定理)"
+              "title": "函数与极限的关系"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "华南农业大学",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.50140380859375
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用共轭根式求分母为0时的极限.md",
+                "file": "无穷小×有界函数=无穷小的证明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 使用共轭根式求分母为0时的极限"
+              "title": "Backlinks for 无穷小×有界函数=无穷小的证明"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用共轭根式求分母为0时的极限.md",
+                "file": "无穷小×有界函数=无穷小的证明.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 使用共轭根式求分母为0时的极限"
+              "title": "Outgoing links from 无穷小×有界函数=无穷小的证明"
             }
           },
           {
@@ -196,34 +182,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad849406e949f278",
+  "active": "3c93e9ba055cc997",
   "lastOpenFiles": [
-    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
-    "华南农业大学2015~2016学年第1 学期解答题T2.md",
-    "华南农业大学2022-2023学年第1学期T7.md",
-    "通过导函数分解因式的方法看单调性.md",
-    "找凹凸区间中二倍角公式和三角恒等变换的抉择.md",
-    "Rolle's Theorem(罗尔中值定理).md",
-    "拉格朗日中值定理由导数导出部分原函数信息.md",
-    "First and Second Derivative Tests在不同情况下的“性能”对比.md",
-    "Second Derivative Tests失效.md",
-    "First and Second Derivative Tests.md",
-    "一道正弦函数利用换元法进行化归为已解决求极限问题.md",
-    "Deivative Tests.md",
-    "三角函数性质.md",
-    "求解纯三角函数方程.md",
+    "δ-ε语言.md",
+    "函数与极限的关系.md",
     "Latex.md",
-    "常用代数变形.md",
-    "高斯消元法 Gaussian Elimination.md",
-    "三角函数的基本关系.md",
-    "关于含根式求极限的换元解法.md",
-    "Logarithmic Differentiation.md",
+    "证明函数有界的充分必要条件是函数既有上界又有下界.md",
+    "无穷小×有界函数=无穷小的证明.md",
+    "函数的连续性.md",
+    "用δ-ε语言证明二次函数极限存在的练习题1.md",
+    "函数的有界性.md",
+    "attached/Pasted image 20250929084239.png",
+    "夹挤定理（The Squeeze Theorem）和函数有界性的结合的例子.md",
+    "The squeeze Theorem.md",
+    "自学指南.md",
+    "极限的运算法则.md",
+    "运用l'hosipital's rule中的及时分离.md",
+    "nomogeneous linear systems的解法（parametric vector form写法）.md",
+    "证明三点共线.md",
+    "attached/Pasted image 20250928221649.png",
+    "attached/Pasted image 20250928221645.png",
+    "华南农业大学2015~2016学年第1 学期解答题T2.md",
+    "丨f(x)-L丨＜ ε 中含有丨x - a 丨＜ δ 的公因式的小机关.md",
     "Concavity Test的证明.md",
-    "证明函数单调性的性质.md",
-    "数学中记笔记的方法.md",
-    "通过对换，约分简化高斯求解的计算量.md",
-    "Linear Combination与线性方程组的几何含义对比理解.md",
-    "linear combination.md",
+    "First and Second Derivative Tests在不同情况下的“性能”对比.md",
+    "用δ-ε语言证明二次函数极限存在的练习题2.md",
+    "记录一些若至错误.md",
+    "华南农业大学2022-2023学年第1学期T7.md",
+    "洛必达法则求未定型的极限.md",
+    "自变量在指数的一种简单求导方法.md",
+    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
+    "对于有间断的函数求原函数.md",
+    "attached/Pasted image 20250922163450.png",
     "高等代数框架.canvas",
     "Untitled.base",
     "attached/Pasted image 20250819153857.png",
@@ -233,14 +223,10 @@
     "attached/lagrange's mean value theorem h(x)几何含义.png",
     "attached/Pasted image 20250818162854.png",
     "attached/lagrange's mean value theorem 图示a.png",
-    "attached/Pasted image 20250812231432.png",
-    "attached/Pasted image 20250810112248.png",
     "新建 Text Document.txt",
     "GuMath",
     "Untitled",
     "${}^{",
-    "attached/Pasted image 20250726123414.png",
-    "attached/Pasted image 20250717194212.png",
     "Thomas_Calculus 15th.pdf",
     "template",
     "attached"
