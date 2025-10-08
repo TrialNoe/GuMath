@@ -13,6 +13,8 @@ $$\lim_{x \to 0}(1+x)^{\frac{1}{x}}=\lim_{n \to \infty}(1+\frac{1}{n})^{n}=e$$
 
 ## 1-经典例子
 
+^1d7f7f
+
 > [!question] 
 > 证明以下极限存在
 > $$

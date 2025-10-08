@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9a9d1d01c15159",
+        "id": "06eb4bcc6dff8d00",
         "type": "tabs",
         "children": [
           {
-            "id": "e5154811318ae271",
+            "id": "70b3136f3554b064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证明函数单调性的性质.md",
+                "file": "Exercises/SCAUAM-1-A-Ex4,Ex7,Ex8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "证明函数单调性的性质"
+              "title": "SCAUAM-1-A-Ex4,Ex7,Ex8"
+            }
+          },
+          {
+            "id": "a454e875a2886155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "两个重要极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "两个重要极限"
+            }
+          },
+          {
+            "id": "14b9b194e08fdbd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,9 +77,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac{\\sin",
+                "query": "\\lim_{x\\to0^{+}}{(1+x)^{\\frac{1}{\\sqrt{x}}}}",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.50649642944336,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -182,35 +207,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5154811318ae271",
+  "active": "70b3136f3554b064",
   "lastOpenFiles": [
-    "Approach0-1084648.md",
-    "一道正弦函数利用换元法进行化归为已解决求极限问题.md",
-    "华南农业大学2022-2023学年第1学期T7.md",
-    "sinx.md",
-    "通过对换，约分简化高斯求解的计算量.md",
-    "(Todo)证明经典结论：函数可导必定连续.md",
-    "Taylor Polynomial.md",
-    "刷题集/JSC-9E-4.5-Ex54.md",
+    "两个重要极限.md",
+    "Logarithmic Differentiation.md",
+    "Exercises/SCAUAM-1-A-Ex4,Ex7,Ex8.md",
+    "Exercises/华南农业大学2022-2023学年第1学期T7.md",
+    "Exercises/华南农业大学2015~2016学年第1 学期解答题T2.md",
+    "e的极限表达证明极限存在的构造斜率式证法.md",
+    "The squeeze Theorem.md",
+    "Exercises/书名简写说明.md",
+    "记录一些若至错误.md",
     "证明函数单调性的性质.md",
-    "Linear Approximation.md",
-    "自变量在指数的一种简单求导方法.md",
-    "对于有间断的函数求原函数.md",
-    "Deivative Tests.md",
-    "nomogeneous linear systems的解法（parametric vector form写法）.md",
-    "刷题集/JSC-9E-4.5-Ex49.md",
+    "Untitled.md",
+    "夹挤定理（The Squeeze Theorem）和函数有界性的结合的例子.md",
+    "Taylor Polynomial.md",
+    "Give yourself an epsilon of room.md",
+    "常用代数变形.md",
+    "使用共轭根式求分母为0时的极限.md",
+    "使用sin²x+cos²=1求分母为0时的极限.md",
+    "min(x,y)运算时的坑.md",
+    "(Todo)证明经典结论：函数可导必定连续.md",
+    "一道正弦函数利用换元法进行化归为已解决求极限问题.md",
+    "关于含根式求极限的换元解法.md",
     "一些值得记忆的超越函数的导数.md",
-    "一些常用的复合函数的导数.md",
-    "洛必达法则(L'Hospital's Rule)求未定型的极限.md",
-    "刷题集/书名简写说明.md",
-    "刷题集",
-    "三角函数性质.md",
-    "三角函数的基本关系.md",
-    "函数与极限的关系.md",
-    "δ-ε语言.md",
-    "Latex.md",
-    "证明函数有界的充分必要条件是函数既有上界又有下界.md",
-    "无穷小×有界函数=无穷小的证明.md",
+    "sinx.md",
+    "Exercises/Approach0-1084648.md",
+    "通过对换，约分简化高斯求解的计算量.md",
+    "Exercises/JSC-9E-4.5-Ex54.md",
+    "Exercises",
     "attached/Pasted image 20250929084239.png",
     "attached/Pasted image 20250928221649.png",
     "attached/Pasted image 20250928221645.png",
