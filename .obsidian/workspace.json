@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "317de8e4cb9e17ce",
+        "id": "eb9a9d1d01c15159",
         "type": "tabs",
         "children": [
           {
-            "id": "3c93e9ba055cc997",
+            "id": "e5154811318ae271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "函数与极限的关系.md",
+                "file": "证明函数单调性的性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数与极限的关系"
+              "title": "证明函数单调性的性质"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "\\frac{\\sin",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -182,37 +182,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c93e9ba055cc997",
+  "active": "e5154811318ae271",
   "lastOpenFiles": [
-    "δ-ε语言.md",
+    "Approach0-1084648.md",
+    "一道正弦函数利用换元法进行化归为已解决求极限问题.md",
+    "华南农业大学2022-2023学年第1学期T7.md",
+    "sinx.md",
+    "通过对换，约分简化高斯求解的计算量.md",
+    "(Todo)证明经典结论：函数可导必定连续.md",
+    "Taylor Polynomial.md",
+    "刷题集/JSC-9E-4.5-Ex54.md",
+    "证明函数单调性的性质.md",
+    "Linear Approximation.md",
+    "自变量在指数的一种简单求导方法.md",
+    "对于有间断的函数求原函数.md",
+    "Deivative Tests.md",
+    "nomogeneous linear systems的解法（parametric vector form写法）.md",
+    "刷题集/JSC-9E-4.5-Ex49.md",
+    "一些值得记忆的超越函数的导数.md",
+    "一些常用的复合函数的导数.md",
+    "洛必达法则(L'Hospital's Rule)求未定型的极限.md",
+    "刷题集/书名简写说明.md",
+    "刷题集",
+    "三角函数性质.md",
+    "三角函数的基本关系.md",
     "函数与极限的关系.md",
+    "δ-ε语言.md",
     "Latex.md",
     "证明函数有界的充分必要条件是函数既有上界又有下界.md",
     "无穷小×有界函数=无穷小的证明.md",
-    "函数的连续性.md",
-    "用δ-ε语言证明二次函数极限存在的练习题1.md",
-    "函数的有界性.md",
     "attached/Pasted image 20250929084239.png",
-    "夹挤定理（The Squeeze Theorem）和函数有界性的结合的例子.md",
-    "The squeeze Theorem.md",
-    "自学指南.md",
-    "极限的运算法则.md",
-    "运用l'hosipital's rule中的及时分离.md",
-    "nomogeneous linear systems的解法（parametric vector form写法）.md",
-    "证明三点共线.md",
     "attached/Pasted image 20250928221649.png",
     "attached/Pasted image 20250928221645.png",
-    "华南农业大学2015~2016学年第1 学期解答题T2.md",
-    "丨f(x)-L丨＜ ε 中含有丨x - a 丨＜ δ 的公因式的小机关.md",
-    "Concavity Test的证明.md",
-    "First and Second Derivative Tests在不同情况下的“性能”对比.md",
-    "用δ-ε语言证明二次函数极限存在的练习题2.md",
-    "记录一些若至错误.md",
-    "华南农业大学2022-2023学年第1学期T7.md",
-    "洛必达法则求未定型的极限.md",
-    "自变量在指数的一种简单求导方法.md",
-    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
-    "对于有间断的函数求原函数.md",
     "attached/Pasted image 20250922163450.png",
     "高等代数框架.canvas",
     "Untitled.base",
@@ -225,7 +226,6 @@
     "attached/lagrange's mean value theorem 图示a.png",
     "新建 Text Document.txt",
     "GuMath",
-    "Untitled",
     "${}^{",
     "Thomas_Calculus 15th.pdf",
     "template",
