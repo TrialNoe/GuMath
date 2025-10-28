@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "06eb4bcc6dff8d00",
+        "id": "fbdafa9e755f305b",
         "type": "tabs",
         "children": [
           {
-            "id": "f61b7618d6f66cbf",
+            "id": "dbd22290e3b1a610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "等价无穷小.md",
+                "file": "使用圆弧面积求带根号的积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "等价无穷小"
+              "title": "使用圆弧面积求带根号的积分"
+            }
+          },
+          {
+            "id": "ba1c717d0ee08faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用行列式按行(列)的可加性推导两行(列)同时可加性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "用行列式按行(列)的可加性推导两行(列)同时可加性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "等价无穷小",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,48 +197,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f61b7618d6f66cbf",
+  "active": "ba1c717d0ee08faa",
   "lastOpenFiles": [
-    "数学归纳法.md",
-    "等价无穷小.md",
-    "Exercises/华南农业大学2022-2023学年第1学期T7.md",
-    "Exercises/Nested Radical-SCAUAM-1-A-Ex7.md",
-    "Exercises/SCAUAM-1-A-Ex4,Ex8.md",
-    "Exercises/Approach0-1084648.md",
-    "attached/Pasted image 20251011140143.png",
-    "Untitled.md",
-    "记录一些若至错误.md",
-    "The Monotone Bounded Convergence Theorem.md",
-    "Exercises/JSC-9E-4.5-Ex54.md",
-    "两个重要极限.md",
-    "n项平方和公式推导.md",
+    "Untitled.base",
+    "用行列式按行(列)的可加性推导两行(列)同时可加性.md",
+    "Untitled 2.md",
+    "使用圆弧面积求带根号的积分.md",
+    "Untitled 1.md",
+    "attached/Pasted image 20251028210338.png",
+    "定义.md",
+    "行列式的引入.md",
     "Logarithmic Differentiation.md",
-    "Exercises/华南农业大学2015~2016学年第1 学期解答题T2.md",
-    "e的极限表达证明极限存在的构造斜率式证法.md",
-    "The squeeze Theorem.md",
-    "Exercises/书名简写说明.md",
-    "证明函数单调性的性质.md",
-    "夹挤定理（The Squeeze Theorem）和函数有界性的结合的例子.md",
-    "Taylor Polynomial.md",
-    "Give yourself an epsilon of room.md",
-    "常用代数变形.md",
-    "使用共轭根式求分母为0时的极限.md",
-    "使用sin²x+cos²=1求分母为0时的极限.md",
-    "min(x,y)运算时的坑.md",
-    "(Todo)证明经典结论：函数可导必定连续.md",
+    "参数方程的一二阶导函数推导.md",
+    "用δ-ε语言证明二次函数极限存在的练习题1.md",
+    "δ-ε语言.md",
+    "使用三角形面积求绝对值函数面积.md",
+    "attached/Pasted image 20251025235549.png",
+    "Exercises/JSC-9E-5.2-Ex23.md",
+    "attached/Pasted image 20251025231940.png",
+    "attached/Pasted image 20251025231855.png",
+    "attached/Pasted image 20251025231810.png",
+    "attached/Pasted image 20251025231644.png",
+    "attached/Pasted image 20251025230410.png",
+    "Exercises/JSC-9E-4.5-Ex54.md",
+    "Exercises/Approach0-1084648.md",
+    "Exercises/SCAUAM-1-A-Ex4,Ex8.md",
+    "使用拆分法计算某些函数的n阶导数.md",
+    "Leibniz Formula.md",
+    "​有理函数分解定理​​.md",
+    "两轨迹正交的分析综合证明.md",
+    "First and Second Derivative Tests.md",
+    "隐函数定理以及求导.md",
+    "template/math.md",
+    "2025-10-23.md",
+    "自变量在指数的一种简单求导方法.md",
+    "Untitled.md",
+    "高等代数框架.canvas",
+    "attached/Pasted image 20251011140143.png",
     "Exercises",
     "attached/Pasted image 20250929084239.png",
     "attached/Pasted image 20250928221649.png",
-    "attached/Pasted image 20250928221645.png",
-    "attached/Pasted image 20250922163450.png",
-    "高等代数框架.canvas",
-    "Untitled.base",
-    "attached/Pasted image 20250819153857.png",
-    "attached/Pasted image 20250819153721.png",
-    "attached/Pasted image 20250819153712.png",
     "Untitled 1.canvas",
-    "attached/lagrange's mean value theorem h(x)几何含义.png",
-    "attached/Pasted image 20250818162854.png",
     "新建 Text Document.txt",
     "GuMath",
     "${}^{",
