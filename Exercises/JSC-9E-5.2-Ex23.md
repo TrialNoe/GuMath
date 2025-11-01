@@ -2,11 +2,14 @@
 tags:
   - "#math"
   - math_calculus
+  - Math_source_material
 ---
-计算积分
-$$
-\int_{1}^{3} (x^{3}+5x^{2})dx
-$$
+
+> [!question]
+> 计算积分
+> $$
+> \int_{1}^{3} (x^{3}+5x^{2})dx
+> $$
 
 先算$\Delta x,\Delta x = \frac{ 3-1 }{ n } = \frac{2}{n}$
 再算一下$x_{i} = 1+\frac{2i}{n}$(看起点 不然会错)

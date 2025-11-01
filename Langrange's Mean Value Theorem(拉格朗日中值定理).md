@@ -4,12 +4,9 @@ tags:
   - math_calculus
   - math_ideas_tools
 ---
-## 内容
-> [!NOTE] 
->
 
 
-> [!cite] 
+> [!question] 
 > 条件
 > 1. $f(x)$在$[a,b]$上面连续
 > 2. $f(x)$在$(a,b)$上面可导
@@ -34,7 +31,10 @@ $$
 
 令
 $$
-h(x)=f(x)-[\frac{f(a)-f(b)}{a-b}(x-a)+f(a)]
+\begin{align}
+h(x)=f(x)-[\frac{f(a)-f(b)}{a-b}(x-a)+f(a)]\\ 
+= f(x)-f(a)-\frac{f(a)-f(b)}{a-b}(x-a)
+\end{align}
 $$
 求导
 $$
