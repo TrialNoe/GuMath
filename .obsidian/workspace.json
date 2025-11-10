@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/Partial Fraction Decomposition(部分分式分解).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partial Fraction Decomposition(部分分式分解)"
+              "title": "README"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "高阶导数",
+                "query": "READ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -210,10 +210,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "946ac2586605ed56",
+  "active": "ad849406e949f278",
   "lastOpenFiles": [
-    "analysis/logistic function累积分布函数积分问题.md",
+    "gaokao",
     "analysis/Partial Fraction Decomposition(部分分式分解).md",
+    "analysis/logistic function累积分布函数积分问题.md",
     "analysis/使用拆分法计算某些函数的n阶导数.md",
     "analysis/Fermat's Theorem(费马引理).md",
     "analysis/使用三角形面积求绝对值函数面积.md",
@@ -222,7 +223,7 @@
     "advanced algebra/n阶行列式性质7：某一行（列）的c倍加到别的行（列）不变性.md",
     "analysis/取整函数的运算其他理解.md",
     "template/math.md",
-    "数列题和集合题结合.md",
+    "gaokao/数列题和集合题结合.md",
     "attached/Pasted image 20251109225304.png",
     "advanced algebra/递推法求Vandermonde determinant.md",
     "analysis/VandenMonde determinant.md",
@@ -241,7 +242,6 @@
     "analysis/参数方程的一二阶导函数推导.md",
     "advanced algebra/归纳假设.md",
     "analysis",
-    "advanced algebra/n阶上下三角行列式的性质证明.md",
     "attached/n阶行列式可以按第r列进行展开：比较图A.png",
     "attached/n阶行列式可以按第r列进行展开：比较图2.png",
     "attached/n阶行列式可以按第r列进行展开：比较图B.png",
