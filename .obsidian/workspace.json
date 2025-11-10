@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e5000c2d6adbcef5",
+        "id": "202d3741284dfb0a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca2851ede6a3dec",
+            "id": "c2a8f7f83bfc398d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advanced algebra/n阶行列式可以按第r列进行展开，结果不变.md",
+                "file": "analysis/logistic function累积分布函数积分问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n阶行列式可以按第r列进行展开，结果不变"
+              "title": "logistic function累积分布函数积分问题"
+            }
+          },
+          {
+            "id": "946ac2586605ed56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Partial Fraction Decomposition(部分分式分解).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Partial Fraction Decomposition(部分分式分解)"
+            }
+          },
+          {
+            "id": "c8caf77d4c9b1760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Fermat's Theorem(费马引理).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fermat's Theorem(费马引理)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math_advanced_algebra",
+                "query": "高阶导数",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.50536727905273
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -181,9 +210,38 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3ca2851ede6a3dec",
+  "active": "946ac2586605ed56",
   "lastOpenFiles": [
-    "advanced algebra/n阶行列式可以按第r列进行展开，结果不变.md",
+    "analysis/logistic function累积分布函数积分问题.md",
+    "analysis/Partial Fraction Decomposition(部分分式分解).md",
+    "analysis/使用拆分法计算某些函数的n阶导数.md",
+    "analysis/Fermat's Theorem(费马引理).md",
+    "analysis/使用三角形面积求绝对值函数面积.md",
+    "analysis/First and Second Derivative Tests在不同情况下的“性能”对比.md",
+    "analysis/积分.md",
+    "advanced algebra/n阶行列式性质7：某一行（列）的c倍加到别的行（列）不变性.md",
+    "analysis/取整函数的运算其他理解.md",
+    "template/math.md",
+    "数列题和集合题结合.md",
+    "attached/Pasted image 20251109225304.png",
+    "advanced algebra/递推法求Vandermonde determinant.md",
+    "analysis/VandenMonde determinant.md",
+    "advanced algebra/n阶行列式性质8：可以按第r列进行展开，结果不变.md",
+    "advanced algebra/求和法求和constant-sum matrix.md",
+    "advanced algebra/n阶行列式性质5.md",
+    "attached/Screenshot_20251109_195412_com.onyx.galaxy.note.png",
+    "advanced algebra/2阶行列式性质1：用行列式按行(列)的可加性推导两行(列)同时可加性.md",
+    "advanced algebra/n阶行列式性质6(拆分法)：行列式的（列）线性可加性质.md",
+    "analysis/通过求导解一道积分方程.md",
+    "analysis/L'hospital Rule解决对分子为不定积分的不定型求极限.md",
+    "analysis/Thomas' calculus 4.md",
+    "analysis/Exercises/JSC-9E-5.3-Ex91.md",
+    "attached/Pasted image 20251109135617.png",
+    "analysis/函数的有界性.md",
+    "analysis/参数方程的一二阶导函数推导.md",
+    "advanced algebra/归纳假设.md",
+    "analysis",
+    "advanced algebra/n阶上下三角行列式的性质证明.md",
     "attached/n阶行列式可以按第r列进行展开：比较图A.png",
     "attached/n阶行列式可以按第r列进行展开：比较图2.png",
     "attached/n阶行列式可以按第r列进行展开：比较图B.png",
@@ -191,44 +249,16 @@
     "attached/Pasted image 20251102193517.png",
     "attached/n阶行列式可以按第r列进行展开：数对调的次数.png",
     "attached/n阶行列式可以按第r列进行展开：数对调的次数1.png",
-    "advanced algebra/n阶行列式性质4：对换两行（列）变成相反数.md",
-    "advanced algebra/n阶行列式性质6(拆分法)：行列式的（列）线性可加性质.md",
-    "advanced algebra/n阶行列式性质5.md",
-    "advanced algebra/2阶行列式性质1：用行列式按行(列)的可加性推导两行(列)同时可加性.md",
-    "advanced algebra/n阶上下三角行列式的性质证明.md",
-    "advanced algebra/n阶行列式性质7：倍加变换不变性.md",
-    "advanced algebra/booknotes.md",
-    "高斯消元法 Gaussian Elimination.md",
-    "自学指南.md",
-    "readme/Latex.md",
-    "readme/自学指南.md",
-    "advanced algebra/自学指南.md",
     "readme",
-    "2025-10-30.md",
-    "attached/Pasted image 20251102180600.png",
-    "δ-ε语言.md",
     "advanced algebra",
-    "Logarithmic Differentiation.md",
-    "使用拆分法计算某些函数的n阶导数.md",
-    "attached/上下三角行列式性质证明1.png",
-    "求使b∈Span{a₁,a₂}的h值.md",
-    "经典题：验证某一向量是否在Span内.md",
-    "m rows and n column of matrix 乘m维向量.md",
-    "nomogeneous linear systems的解法（parametric vector form写法）.md",
-    "linear combination.md",
-    "Exercises/SCAUAM-3-1-Ex6.md",
-    "Langrange's Mean Value Theorem(拉格朗日中值定理).md",
-    "Exercises/Approach0-1084648.md",
-    "attached/Pasted image 20251029184922.png",
     "Untitled.base",
-    "高等代数框架.canvas",
-    "Exercises",
+    "analysis/高等代数框架.canvas",
+    "analysis/Exercises",
     "Untitled 1.canvas",
     "新建 Text Document.txt",
     "GuMath",
     "${}^{",
     "Thomas_Calculus 15th.pdf",
-    "template",
-    "attached"
+    "template"
   ]
 }
