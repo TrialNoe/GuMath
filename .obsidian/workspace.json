@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "202d3741284dfb0a",
+        "id": "75fd4c1d26c854a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a8f7f83bfc398d",
+            "id": "03ea0dcd9221f574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/logistic function累积分布函数积分问题.md",
+                "file": "advanced algebra/排列的标准化引理(Standardization Lemma for Permutations) 证明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logistic function累积分布函数积分问题"
-            }
-          },
-          {
-            "id": "946ac2586605ed56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c8caf77d4c9b1760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "analysis/Fermat's Theorem(费马引理).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fermat's Theorem(费马引理)"
+              "title": "排列的标准化引理(Standardization Lemma for Permutations) 证明"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -82,11 +53,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "READ",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
+                "query": "subsi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.50536727905273
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -210,55 +181,55 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ad849406e949f278",
+  "active": "afcfe348bbaf6141",
   "lastOpenFiles": [
-    "gaokao",
-    "analysis/Partial Fraction Decomposition(部分分式分解).md",
-    "analysis/logistic function累积分布函数积分问题.md",
-    "analysis/使用拆分法计算某些函数的n阶导数.md",
-    "analysis/Fermat's Theorem(费马引理).md",
-    "analysis/使用三角形面积求绝对值函数面积.md",
-    "analysis/First and Second Derivative Tests在不同情况下的“性能”对比.md",
-    "analysis/积分.md",
-    "advanced algebra/n阶行列式性质7：某一行（列）的c倍加到别的行（列）不变性.md",
-    "analysis/取整函数的运算其他理解.md",
-    "template/math.md",
-    "gaokao/数列题和集合题结合.md",
-    "attached/Pasted image 20251109225304.png",
+    "jx2tkve2.zwc~",
+    "cemwffcs.tns~",
+    "attached/排列的标准化引理(Standardization Lemma for Permutations) 证明 手写证明.png",
+    "advanced algebra/排列的标准化引理(Standardization Lemma for Permutations) 证明.md",
+    "attached/Screenshot_20251119_164335_com.onyx.galaxy.note.png",
+    "advanced algebra/积分中值定理的证明(Mean Value Theorem forIntegrals).md",
+    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
+    "advanced algebra/n阶上下三角行列式的性质证明.md",
     "advanced algebra/递推法求Vandermonde determinant.md",
-    "analysis/VandenMonde determinant.md",
-    "advanced algebra/n阶行列式性质8：可以按第r列进行展开，结果不变.md",
-    "advanced algebra/求和法求和constant-sum matrix.md",
-    "advanced algebra/n阶行列式性质5.md",
-    "attached/Screenshot_20251109_195412_com.onyx.galaxy.note.png",
-    "advanced algebra/2阶行列式性质1：用行列式按行(列)的可加性推导两行(列)同时可加性.md",
-    "advanced algebra/n阶行列式性质6(拆分法)：行列式的（列）线性可加性质.md",
-    "analysis/通过求导解一道积分方程.md",
-    "analysis/L'hospital Rule解决对分子为不定积分的不定型求极限.md",
-    "analysis/Thomas' calculus 4.md",
-    "analysis/Exercises/JSC-9E-5.3-Ex91.md",
-    "attached/Pasted image 20251109135617.png",
-    "analysis/函数的有界性.md",
-    "analysis/参数方程的一二阶导函数推导.md",
     "advanced algebra/归纳假设.md",
+    "advanced algebra/求和法求和constant-sum matrix.md",
+    "analysis/一类ee和三角函数之积的积分问题.md",
+    "analysis/Integration by Parts.md",
+    "analysis/求arccosx的积分问题.md",
+    "analysis/高次分式分解积分.md",
+    "analysis/复合函数连续性的传导法则.md",
+    "analysis/邻域、领域半径.md",
+    "analysis/函数的连续性.md",
+    "analysis/洛必达法则(L'Hospital's Rule)求未定型的极限.md",
+    "analysis/高等代数框架.canvas",
+    "analysis/Concavity Test的证明.md",
+    "analysis/证明三点共线.md",
+    "analysis/Second Derivative Tests失效.md",
+    "analysis/一些值得记忆的超越函数的导数.md",
+    "analysis/Exercises/Nested Radical-SCAUAM-1-A-Ex7.md",
+    "analysis/常用代数变形.md",
+    "analysis/使用sin²x+cos²=1求分母为0时的极限.md",
+    "analysis/logistic function累积分布函数积分问题.md",
+    "analysis/Partial Fraction Decomposition(部分分式分解).md",
+    "analysis/三角形和差化积解决一道两三角之积的积分问题.md",
+    "Untitled",
+    "gaokao",
+    "attached/Pasted image 20251109225304.png",
+    "attached/Screenshot_20251109_195412_com.onyx.galaxy.note.png",
+    "attached/Pasted image 20251109135617.png",
     "analysis",
     "attached/n阶行列式可以按第r列进行展开：比较图A.png",
     "attached/n阶行列式可以按第r列进行展开：比较图2.png",
     "attached/n阶行列式可以按第r列进行展开：比较图B.png",
     "attached/n阶行列式可以按第r列进行展开：比较图1.png",
     "attached/Pasted image 20251102193517.png",
-    "attached/n阶行列式可以按第r列进行展开：数对调的次数.png",
-    "attached/n阶行列式可以按第r列进行展开：数对调的次数1.png",
     "readme",
     "advanced algebra",
     "Untitled.base",
-    "analysis/高等代数框架.canvas",
     "analysis/Exercises",
     "Untitled 1.canvas",
     "新建 Text Document.txt",
-    "GuMath",
-    "${}^{",
-    "Thomas_Calculus 15th.pdf",
-    "template"
+    "GuMath"
   ]
 }

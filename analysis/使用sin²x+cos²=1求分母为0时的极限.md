@@ -26,7 +26,7 @@ tags:
 >&=\lim_{x \to 0}\frac{1-\cos ^2x}{x \sin x(1+\cos x)}\\
 >\end{align}
 >$$
->根据[[三角函数的基本关系]](1-cos²=sin²x)
+>根据[[三角函数的基本关系#勾股定理]](1-cos²=sin²x)
 >$$
 >\begin{align}
 >&=\lim_{x \to 0}\frac{\sin^2{x}}{x \sin x (1+\cos x)}\\
