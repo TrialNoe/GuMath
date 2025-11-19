@@ -4,8 +4,9 @@ tags:
   - math_advanced_algebra
 ---
 
-> [!NOTE] 证明
+> [!question] 证明
 > $$
+> \large
 > \begin{vmatrix}
 > 1 & 1 & 1 & \cdots & 1 \\
 > 1 & C_2^1 & C_3^1 & \cdots & C_n^1 \\
