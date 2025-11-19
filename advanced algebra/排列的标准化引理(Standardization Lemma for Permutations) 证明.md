@@ -7,3 +7,4 @@
 ![[排列的标准化引理(Standardization Lemma for Permutations) 证明 手写证明.png]]
 由归纳假设可以知道，原命题成立
 Q.E.D
+aaa
