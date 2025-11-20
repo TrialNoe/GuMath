@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "accentColor": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true
 }
