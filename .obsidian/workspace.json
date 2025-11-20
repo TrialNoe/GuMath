@@ -11,10 +11,14 @@
             "id": "8d89bdea7e998413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "analysis/使用三角形面积求绝对值函数面积.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "使用三角形面积求绝对值函数面积"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +185,13 @@
   },
   "active": "8d89bdea7e998413",
   "lastOpenFiles": [
+    "analysis/丨f(x)-L丨＜ ε 中含有丨x - a 丨＜ δ 的公因式的小机关.md",
+    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
+    "analysis/一道正弦函数利用换元法进行化归为已解决求极限问题.md",
+    "analysis/First and Second Derivative Tests在不同情况下的“性能”对比.md",
+    "analysis/Rolle's Theorem(罗尔中值定理).md",
+    "analysis/分子或分母有理化.md",
+    "analysis/一些值得记忆的超越函数的导数.md",
     "analysis/恒等式的常值函数证法.md",
     "analysis/Concavity Test的证明.md",
     "analysis/Langrange's Mean Value Theorem(拉格朗日中值定理).md",
@@ -189,10 +199,8 @@
     "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
     "analysis/Exercises/Nested Radical-SCAUAM-1-A-Ex7.md",
     "analysis/First and Second Derivative Tests.md",
-    "analysis/First and Second Derivative Tests在不同情况下的“性能”对比.md",
     "advanced algebra/Untitled.md",
     "advanced algebra/n阶行列式组合定义.md",
-    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
     "advanced algebra/排列的标准化引理(Standardization Lemma for Permutations) 证明.md",
     "advanced algebra/积分中值定理的证明(Mean Value Theorem forIntegrals).md",
     "jx2tkve2.zwc~",
@@ -207,12 +215,7 @@
     "analysis/Integration by Parts.md",
     "analysis/求arccosx的积分问题.md",
     "analysis/高次分式分解积分.md",
-    "analysis/复合函数连续性的传导法则.md",
-    "analysis/邻域、领域半径.md",
-    "analysis/函数的连续性.md",
-    "analysis/洛必达法则(L'Hospital's Rule)求未定型的极限.md",
     "analysis/高等代数框架.canvas",
-    "analysis/证明三点共线.md",
     "Untitled",
     "gaokao",
     "attached/Pasted image 20251109225304.png",
