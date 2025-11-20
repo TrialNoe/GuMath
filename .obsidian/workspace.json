@@ -11,10 +11,14 @@
             "id": "3359d07e23a782fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           },
           {
@@ -193,7 +197,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "afcfe348bbaf6141",
+  "active": "3359d07e23a782fd",
   "lastOpenFiles": [
     "analysis/恒等式的常值函数证法.md",
     "analysis/Concavity Test的证明.md",

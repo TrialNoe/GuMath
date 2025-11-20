@@ -5,7 +5,7 @@
 # ºöÂÔObsidian»º´æ
 .obsidian/cache/
 .obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/hotkeys.json
+#.obsidian/workspace-mobile.json
+#.obsidian/app.json
+#.obsidian/appearance.json
+#.obsidian/hotkeys.json
