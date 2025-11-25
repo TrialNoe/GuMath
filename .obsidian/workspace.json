@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "通过求导解一道积分方程"
             }
+          },
+          {
+            "id": "a505ade760b35e59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "求导",
+                "query": "不定",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,9 +195,20 @@
   },
   "active": "8d89bdea7e998413",
   "lastOpenFiles": [
+    "advanced algebra/递推法求Vandermonde determinant.md",
+    "analysis/L'hospital Rule解决对分子为不定积分的不定型求极限.md",
+    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
+    "analysis/Exercises/求极限的练习汇总.md",
+    "readme/理解.md",
+    "analysis/通过求导解一道积分方程.md",
+    "readme/自学指南.md",
+    "readme/Latex.md",
+    "README.md",
+    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
+    "advanced algebra/n阶行列式性质4：对换两行（列）变成相反数.md",
+    "analysis/Untitled.md",
     "analysis/使用三角形面积求绝对值函数面积.md",
     "analysis/丨f(x)-L丨＜ ε 中含有丨x - a 丨＜ δ 的公因式的小机关.md",
-    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
     "analysis/一道正弦函数利用换元法进行化归为已解决求极限问题.md",
     "analysis/First and Second Derivative Tests在不同情况下的“性能”对比.md",
     "analysis/Rolle's Theorem(罗尔中值定理).md",
@@ -198,24 +218,13 @@
     "analysis/Concavity Test的证明.md",
     "analysis/Langrange's Mean Value Theorem(拉格朗日中值定理).md",
     "analysis/拉格朗日中值定理由导数导出部分原函数信息.md",
-    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
     "analysis/Exercises/Nested Radical-SCAUAM-1-A-Ex7.md",
     "analysis/First and Second Derivative Tests.md",
     "advanced algebra/Untitled.md",
-    "advanced algebra/n阶行列式组合定义.md",
-    "advanced algebra/排列的标准化引理(Standardization Lemma for Permutations) 证明.md",
-    "advanced algebra/积分中值定理的证明(Mean Value Theorem forIntegrals).md",
     "jx2tkve2.zwc~",
     "cemwffcs.tns~",
     "attached/排列的标准化引理(Standardization Lemma for Permutations) 证明 手写证明.png",
     "attached/Screenshot_20251119_164335_com.onyx.galaxy.note.png",
-    "advanced algebra/n阶上下三角行列式的性质证明.md",
-    "advanced algebra/递推法求Vandermonde determinant.md",
-    "advanced algebra/归纳假设.md",
-    "advanced algebra/求和法求和constant-sum matrix.md",
-    "analysis/一类ee和三角函数之积的积分问题.md",
-    "analysis/Integration by Parts.md",
-    "analysis/求arccosx的积分问题.md",
     "analysis/高等代数框架.canvas",
     "Untitled",
     "gaokao",

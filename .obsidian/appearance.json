@@ -2,5 +2,6 @@
   "cssTheme": "Things",
   "accentColor": "",
   "enabledCssSnippets": [],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
