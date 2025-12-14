@@ -12,7 +12,7 @@ Linear Combination就是在span内的不“共面”（还有共线，共体之�
 ## $A\vec{x}=\vec{b}$有解
 $A = [\vec{a_{1}},\vec{a_{2}},\vec{a_{3}}\dots\dots \vec{a_{n}}]$
 
-如果说$A\vec{x}=\vec{b}$的话就是根据对于[[linear combination#Linear Combination的理解]]，可以找得到这样的组合$\vec{x}=[x_{1},x_{2},x_{3}.....x_{n}]$可以在$Span \{\vec{a_{1}},\vec{a_{2}},\vec{a_{3}}\dots\dots \vec{a_{n}}\}$组合出$\vec{b}$
+如果说$A\vec{x}=\vec{b}$的话就是根据对于[[Linear Combination#Linear Combination的理解]]，可以找得到这样的组合$\vec{x}=[x_{1},x_{2},x_{3}.....x_{n}]$可以在$Span \{\vec{a_{1}},\vec{a_{2}},\vec{a_{3}}\dots\dots \vec{a_{n}}\}$组合出$\vec{b}$
 
 逆运算来说就是$A \vec{x}$的结果是$\vec{b}$
 

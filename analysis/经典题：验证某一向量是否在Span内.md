@@ -22,13 +22,13 @@ tags:
 > $$
 
 > [!NOTE]+ 动机
-> 想法是很自然的，我们想要得到一个[[linear combination#Linear Combination的理解]]，能够完成下面的。
+> 想法是很自然的，我们想要得到一个[[Linear Combination#Linear Combination的理解]]，能够完成下面的。
 > $$
 > x_{1}\begin{bmatrix}3 \\-2 \\1\end{bmatrix}
 > +x_{2}\begin{bmatrix}-5 \\6 \\1\end{bmatrix}
 > =\begin{bmatrix}0 \\4 \\4\end{bmatrix}
 > $$
-> 又根据[[linear combination#$A vec{x}= vec{b}$有解]],只要解出来增广矩阵，自然而然想到[[高斯消元法 Gaussian Elimination]]
+> 又根据[[Linear Combination#$A vec{x}= vec{b}$有解]],只要解出来增广矩阵，自然而然想到[[高斯消元法 Gaussian Elimination]]
 > $$
 > \begin{bmatrix}
 > 3 & -5 & 0 \\
@@ -78,7 +78,7 @@ $$
 #### 1.2.1 共线的角度
 
 > [!NOTE]+ 动机
-> 根据[[linear combination]]可以得出$A$由一下两个$vector$组成
+> 根据[[Linear Combination]]可以得出$A$由一下两个$vector$组成
 > $$
 > \vec{a_{1}}=\begin{bmatrix}2 \\-6\end{bmatrix}
 > \quad

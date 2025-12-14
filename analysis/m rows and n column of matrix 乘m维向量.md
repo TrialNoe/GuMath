@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!NOTE] 
-> 除了$m^2$的matrix和$m$维的向量相乘，$m \times n$的matrix和$m$维向量相乘也是符合[[linear combination]]的
+> 除了$m^2$的matrix和$m$维的向量相乘，$m \times n$的matrix和$m$维向量相乘也是符合[[Linear Combination]]的
 
 ## 1.例子
 ### 1.1.例子1
@@ -28,7 +28,7 @@ $$
 $$
 
 > [!NOTE] 动机
-> 根据[[linear combination]]，可以将$matrix \times vector$看成是$vector \ equation$
+> 根据[[Linear Combination]]，可以将$matrix \times vector$看成是$vector \ equation$
 > $$
 > 3
 > \begin{bmatrix}

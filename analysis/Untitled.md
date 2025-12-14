@@ -1,30 +1,79 @@
+---
+tags:
+  - "#math"
+  - math_calculus
+  - Math_source_material
+---
+
 > [!question]
-> 如果$f(x)$在$[0,1]$可导如果在$(0,1)$内,$f(x) \in (0,1),f'(x) \neq -1$求证$f(x)=1-x$有唯一解
+> 若$f(x)$在$[0,1]$上连续，求证
+> 1. $\int_{0}^{ \frac{ \pi }{ 2 } }f(\sin x)\,dx =  \int_{0}^{ \frac{ \pi }{ 2 } }f(\cos x)\,dx$.
+> 2. $\int_{0}^{ \pi }xf(\sin x)\,dx = \frac{\pi}{2}\int_{0}^{ \pi }f(\cos x)\,dx$.
+## 1 解答
+### 1.1 Q1
+---
+第一次做这种真的没有什么灵感，用一下“三板斧”试一下
+[[Subsitution Rule]]，准备
+Let $t = \sin x,dt = \cos x\,dx$
+$\sin0 = 0,\sin \frac{\pi}{2} = 1$
+$$
+Given = \int_{0}^{ 1 }\frac{ f(t) }{ \sqrt{1-t^{ 2 }} }\,dt
+$$
+
+> [!error]+
+> 这没有什么明显进展的，而且就接下来也不好做。
+
+---
+[[Integration by Parts]]
+
+Let 
+	$u = f(\sin x),v=x$
+	$u'=f'(\sin x)\cos x,v'=1$
+$$
+Given = xf(\sin x)-\int_{0}^{ \frac{ \pi }{ 2 } }{f'(\sin x)}\cos x\,dx
+$$
+
+> [!error]+
+> 越来越复杂了，而且和我们的RHS差了好远
+
+> [!tip]- 互余换角的思路
+> **如果我们从$\sin x 和 \cos x$的关系角度去思考，互余的互换，$\sin \left( \frac{\pi}{2}-x \right) = \cos x$**
+
+^180f3a
 
 
-## 1 我在考场上错误的证明方法
-Let $g(x) = f(x)+x-1$
+Let $u = \frac{\pi}{2} - x\,,du=-dx$
+$\frac{\pi}{2} -0 = \frac{\pi}{2},\frac{\pi}{2}-\frac{\pi}{2} = 0$
+$$
+Given 
+= \int^{ 0 }_{\frac{ \pi }{ 2 }}f\left( \sin{\left( \frac{\pi}{2}-u \right)} \right)\,(-du) 
+= \int_{0}^{ \frac{ \pi }{ 2 } }f(\cos x)\,du
+$$
+由于那个符号无关的原因
+$$
+RHS =\int_{0}^{ \frac{ \pi }{ 2 } }\cos x\,dx
+$$
+Q.E.D
+
+### Q2
+
+> [!tip]
+> 第一问告诉，对于这类型$抽象(三角(x))$分部积分，换元的方法都不好用，我们仿照[[#^180f3a]]的思路，我们去想怎么来的$\sin x = \sin x\,,\sin (\pi-x) = \sin x$，这样即可
+
+Let 
+	$t=\pi-x\implies x=\pi-t\implies dx=-dt$
+	$t_{sub} = \pi-0 = \pi,t_{top} = \pi-\frac{\pi}{2} = \frac{\pi}{2}$
 $$
 \begin{aligned}
-g(0)&=f(0)-1 \in (-1,0) < 0, \\ 
-g(1) &= f(1) - 1 \in (1,2) > 0
-\end{aligned}
+Given 
+&= \int_{\pi}^{ \frac{ \pi }{ 2 } }{(\pi-t)f(\sin(\pi-t))\,(-dt)} \\
+&= \int_{ \frac{ \pi }{ 2 } }^{ \pi }{(t-\pi)f(\sin \pi)\,dt} \\
+&=\int_{ \frac{ \pi }{ 2 } }^{ \pi }{t\,f(\sin \pi)\,dt}
+-\int_{ \frac{ \pi }{ 2 } }^{ \pi }{\pi f(\sin \pi)\,dt}\\
+&=
+\end{aligned} 
 $$
-求一下导数
-$$
-g'(x) = f'(x) + 1 
-$$
-通过题目$f'(x) \neq -1$我们可以知道$g'(x) \neq 0$
-**分类讨论**
-1.$g'(x) > 0,g(x) \uparrow$，确实存在
-2.$g'(x) <0,g(x) \downarrow$,那么应该满足$g(0)>g(1)$呀，矛盾了。只能是单调增加
-
-那由单调性和零点存在性定理，原命题成立
 
 
-> [!fail] 问题
-> $g'(x)\neq0$不一定是恒正恒负的，例如以0为界一部分是正的，一部分是负的
-
-## 2 对法1的修正
-由Darboux's Theorem告诉我们，如果$a,b \in (0,1)$,并且$g'(a)>0,g’(b)<0$,
-对 0 这个介于正数和负数之间的值，存在$c\in(min(a,b),max(a,b))$使得$g′(c)=0$，与已知矛盾。
+> [!thinking]
+> 这种技巧是不是要看$\int  \, dx$的上限来做很迷的

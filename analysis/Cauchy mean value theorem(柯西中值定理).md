@@ -3,13 +3,15 @@ tags:
   - "#math"
   - math_calculus
   - math_analysis
+  - math_ideas_tools
 ---
 
 > [!question] Cachy mean value theorem
 > 如果$f(x),g(x)$满足
 > $(1)$在比区间$[a,b]$上面连续；
 > $(2)$在开区间$(a,b)$内可导；
-> $(3)$对任意的$x \in (a,b),g'(x)\neq0$；$\text{那么在}(a,b)\text{内至少有一点}\xi\in(a,b),\text{使得}\frac{f(a)-f(b)}{g(a)-g(b)} = \frac{f'(\xi)}{g'(\xi)}$
+> **$(3)$对任意的$x \in (a,b),g'(x)\neq0$；**
+> $\text{那么在}(a,b)\text{内至少有一点}\xi\in(a,b),\text{使得}\frac{f(a)-f(b)}{g(a)-g(b)} = \frac{f'(\xi)}{g'(\xi)}$
 ## 1.证明
 ### 1.1.使用函数绑定进行尝试
 > [!fail] trying
@@ -35,3 +37,6 @@ $$
 
 ### 1.3.历史背景
 柯西中值定理首次出现在他1823年的著作《微积分教程摘要》（Résumé des Leçons données à l'École Royale Polytechnique sur le Calcul Infinitésimal）中 [Stack Exchange](https://hsm.stackexchange.com/questions/9831/was-there-a-more-intuitive-early-proof-of-the-generalized-mean-value-theorem)[SOPHIA RARE BOOKS](https://www.sophiararebooks.com/pages/books/5815/augustin-louis-cauchy/resume-des-lecons-donnees-a-l-ecole-royale-polytechnique-sur-le-calcul-infinitesimal-tome-premier)。
+
+## 2.误用
+[[MVT#例子1]]：可能会不考虑分母的导数为0的情况直接用Cachy导致有逻辑漏洞。
