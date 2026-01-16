@@ -14,7 +14,7 @@ tags:
 #### 1.1.1 动机
 > [!NOTE]+ 动机
 > 根据[[concave upward和concave downward的定义]]要证明concavity test的正确性，就要找到$f''(x) \Rightarrow f'(x) \Rightarrow f(x)$的逻辑链，以及$f(x)$的切线和原函数$f(x)$的关系
-> 切线和斜率密切相关，斜率又和导数$f'(x)$相关，归根结底就是要用$f'(x)$的信息去推出$f(x)$，那么就然而然想到[[Langrange's Mean Value Theorem(拉格朗日中值定理)#2 运用Lagrange's Mean Value Theorem#2.1 数学意义]]参与
+> 切线和斜率密切相关，斜率又和导数$f'(x)$相关，归根结底就是要用$f'(x)$的信息去推出$f(x)$，那么就然而然想到[[Langrange's Mean Value Theorem(拉格朗日中值定理)#2.1 原函数和导函数互推]]参与
 > 
 
 

@@ -8,15 +8,13 @@ tags:
 > 找一个$h$使得$\vec{b}$在$Span \{\vec{a_1},\vec{a_2}\}$里面
 > $$
 > \vec{a_1} = \begin{bmatrix}
-> 1 \\
-> 4 \\
-> -2
+> 1 \\ 4 \\ -2
 > \end{bmatrix}\ 
+> \quad
 > \vec{a_2}=\begin{bmatrix}
-> -2 \\
-> -3 \\
-> 7
+> -2 \\ -3 \\ 7
 > \end{bmatrix}\ 
+> \quad
 > \vec{b}=\begin{bmatrix}
 > 4 \\
 > 1 \\

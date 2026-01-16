@@ -17,6 +17,8 @@ tags:
 > [!tip]
 > 尝试把$0^{+}$代入，发现是$\infty - \infty$，可以通分，然后使用[[洛必达法则(L'Hospital's Rule)求未定型的极限]]
 
+^83760d
+
 $$
 \begin{align}
  =\lim_{ x \to 0^{+} } \frac{\tan^{-1}x -x }{x \cdot \tan^{-1}x} \dots \dots(1)

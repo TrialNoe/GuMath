@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be72c51e79258261",
+        "id": "a88bb9fd3043eef9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f63b7702ddc953a",
+            "id": "ab9f26405f79b9ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "analysis/经典题：验证某一向量是否在Span内.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经典题：验证某一向量是否在Span内"
             }
           }
         ]
@@ -27,7 +31,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dec8533e47b00ac7",
+        "id": "8279f2c60975784d",
         "type": "tabs",
         "children": [
           {
@@ -49,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "约分",
+                "query": "大合集",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               },
@@ -75,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50536727905273
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无穷小×有界函数=无穷小的证明.md",
+                "file": "analysis/MVT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 无穷小×有界函数=无穷小的证明"
+              "title": "Backlinks for MVT"
             }
           },
           {
@@ -110,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "无穷小×有界函数=无穷小的证明.md",
+                "file": "证明积分限为函数时的求导法则.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 无穷小×有界函数=无穷小的证明"
+              "title": "Outgoing links from 证明积分限为函数时的求导法则"
             }
           },
           {
@@ -179,55 +183,55 @@
       "random-note:Open random note": false
     }
   },
-  "active": "afcfe348bbaf6141",
+  "active": "ab9f26405f79b9ef",
   "lastOpenFiles": [
-    "gaokao/数列题和集合题结合.md",
-    "analysis/求解纯三角函数方程.md",
-    "analysis/Exercises/可约分极限求参魔改大法.md",
-    "attached/Screenshot_20251214_183933_com.onyx.galaxy.note.png",
-    "analysis/Exercises/弱化版的Darbox MVT.md",
-    "analysis/MVT.md",
-    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
-    "attached/Pasted image 20251214124947.png",
-    "advanced algebra/自用的低错误率降阶法求行列式.md",
-    "readme/理解.md",
-    "readme/提取组件的Prompt.md",
-    "attached/多个独立点的Lagrange's Mean Value Theorem演示.png",
-    "attached/Pasted image 20251213102059.png",
-    "attached/Pasted image 20251213100438.png",
-    "attached/排列的标准化引理(Standardization Lemma for Permutations) 证明 手写证明.png",
-    "analysis/抽象函数在区间内唯一解问题.md",
-    "analysis/Rolle's Theorem(罗尔中值定理).md",
-    "analysis/经典题：验证某一向量是否在Span内.md",
-    "analysis/数学归纳法.md",
-    "analysis/Exercises/分区间失效的多点MVT.md",
-    "analysis/m rows and n column of matrix 乘m维向量.md",
-    "analysis/Integration by Parts.md",
-    "analysis/Cauchy mean value theorem(柯西中值定理).md",
-    "analysis/Untitled.md",
-    "analysis/Untitled 1.md",
-    "analysis/Exercises/华南农业大学2015~2016学年第1 学期解答题T2.md",
-    "analysis/证明经典结论：函数可导必定连续.md",
-    "analysis/积分.md",
-    "advanced algebra/n阶行列式性质8：可以按第r列进行展开，结果不变.md",
-    "analysis/Linear Combination.md",
-    "readme/自学指南.md",
+    "analysis/The squeeze Theorem.md",
+    "analysis/min函数.md",
+    "analysis/积分中值定理的证明(Mean Value Theorem forIntegrals).md",
+    "analysis/通过对换，约分简化高斯求解的计算量.md",
+    "analysis/logistic function累积分布函数积分问题.md",
+    "analysis/Exercises/谁是谁的原函数.md",
     "analysis/自变量在指数的一种简单求导方法.md",
+    "analysis/两轨迹正交的分析综合证明.md",
+    "analysis/求使b∈Span{a₁,a₂}的h值.md",
+    "analysis/函数的有界性.md",
+    "gaokao/数列题和集合题结合.md",
+    "analysis/数学归纳法.md",
+    "analysis/Fermat's Theorem(费马引理).md",
+    "analysis/Exercises/弱化版的Darbox MVT.md",
+    "analysis/使用拆分法计算某些函数的n阶导数.md",
+    "analysis/证明经典结论：函数可导必定连续.md",
+    "analysis/等价无穷小.md",
+    "analysis/e的极限表达证明极限存在的构造斜率式证法.md",
+    "analysis/三角形和差化积解决一道两三角之积的积分问题.md",
+    "README.md",
+    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
+    "analysis/Logarithmic Differentiation.md",
+    "analysis/一类eˣ和三角函数之积的积分问题.md",
+    "advanced algebra/n阶行列式性质3：提取某一行（列）公因子不变性.md",
+    "analysis/抽象函数在区间内唯一解问题.md",
+    "analysis/复合函数连续性的传导法则.md",
+    "attached/image/analysis/使用圆弧面积求带根号的积分/file-20260113224340917.png",
+    "attached/image/analysis/等价无穷小/file-20260113223359438.png",
+    "attached/image/analysis/等价无穷小",
+    "attached/image/analysis/Integration by Parts/file-20260113155300421.png",
+    "attached/image/analysis/Integration by Parts",
+    "attached/Tabular Integration by Parts_usage.png",
+    "attached/image/analysis/使用圆弧面积求带根号的积分/file-20260110230650687.png",
+    "attached/image/analysis/使用圆弧面积求带根号的积分",
+    "attached/image/analysis",
+    "attached/image",
+    "attachment/image/analysis/使用圆弧面积求带根号的积分/file-20260110230634832.png",
+    "attachment/image/analysis/使用圆弧面积求带根号的积分",
+    "attachment/image/analysis",
+    "attachment/image",
+    "attachment",
+    "attached/Tabular Integration by Parts_show.png",
+    "attached/正余弦函数和多项式的不定积分公式探究_项合并注解.png",
+    "attached/Pasted image 20251221165412.png",
+    "attached/Screenshot_20251214_183933_com.onyx.galaxy.note.png",
     "jx2tkve2.zwc~",
-    "cemwffcs.tns~",
-    "attached/Screenshot_20251119_164335_com.onyx.galaxy.note.png",
     "analysis/高等代数框架.canvas",
-    "Untitled",
-    "gaokao",
-    "attached/Pasted image 20251109225304.png",
-    "attached/Screenshot_20251109_195412_com.onyx.galaxy.note.png",
-    "attached/Pasted image 20251109135617.png",
-    "analysis",
-    "readme",
-    "advanced algebra",
-    "Untitled.base",
-    "analysis/Exercises",
-    "Untitled 1.canvas",
-    "新建 Text Document.txt"
+    "Untitled 1.canvas"
   ]
 }

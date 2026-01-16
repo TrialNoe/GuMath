@@ -70,4 +70,4 @@ $$
 &=\mathrm{Re}\left[ \frac{e^{ x }}{2}\left[\left(\sin x+\cos x\right)+i\left(\sin x-\cos x\right)\right] +C\right] \\
 &= \frac{e^{ x }}{2}(\sin x+\cos x)+C
 \end{aligned}
-$$
+$$4.Tabular 

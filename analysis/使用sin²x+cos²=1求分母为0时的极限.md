@@ -40,3 +40,12 @@ tags:
 >&=\lim_{x\to0}\frac{cosx}{1}=\frac{\cos{0}}{1}=1
 >\end{align}
 >$$
+
+更快的方法：等价无穷小
+$$\lim_{x \to 0}\frac{1-\cos{x}}{xsinx}$$
+我们根据[[等价无穷小#大合集]],选用
+$$
+Given = \lim_{ x \to 0 }{ \frac{\frac{1}{2}x^{ 2 }}{x\cdot x} } = \frac{1}{2}
+$$
+十分快捷
+但是也别忘了这种最基本最原始的方法

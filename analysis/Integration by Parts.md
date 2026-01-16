@@ -4,28 +4,7 @@ tags:
   - math_ideas_tools
 ---
 
-
-
-> [!question]
-> $$
-> \int \frac{x^{4}}{1+x^{2}}dx
-> $$
-
-> [!tip]
-> **上下差了平方和一个系数嘛，可以去补一下，而且又很符合$\int \frac{1}{1+x^{2}} = \arctan x$**
-
- 
-
-$$
-\begin{aligned}
-= \int \frac{1+x^{4}- 1}{1+x^{2}}\,dx = \int \left[ \frac{1}{1+x^{2}}+\frac{x^{4}-1}{1+x^{2}} \right]\,dx
-\end{aligned}
-$$
-诶这不就是平方差公式嘛
-$$
-\begin{aligned}
-&=\int \left[ \frac{1}{1+x^{2}} +  (x^{2}-1) \right]\,dx \\
-&=\arctan x + \frac{1}{3}x^{3}-x+C
-\end{aligned}
-$$
-太好了
+| u   | v   |
+| --- | --- |
+| u'  | v'  |
+![[file-20260113155300421.png]]
