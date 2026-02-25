@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "a88bb9fd3043eef9",
+        "id": "65f177081b194089",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9f26405f79b9ef",
+            "id": "e025f3278dd9d296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/经典题：验证某一向量是否在Span内.md",
+                "file": "gaokao/算术学：代入.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "经典题：验证某一向量是否在Span内"
+              "title": "算术学：代入"
+            }
+          },
+          {
+            "id": "43eb2b3fc379cd91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Linear Differential Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Differential Equation"
+            }
+          },
+          {
+            "id": "4203bad8c4ee6c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Separable Differential Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Separable Differential Equation"
+            }
+          },
+          {
+            "id": "445c435816aba0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Separable Differential Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Separable Differential Equation"
             }
           }
         ]
@@ -53,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大合集",
+                "query": "tag:math_arithmetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自学指南.md",
+                "file": "gaokao/算术学：代入.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 自学指南"
+              "title": "Outline of 算术学：代入"
             }
           },
           {
@@ -183,34 +224,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab9f26405f79b9ef",
+  "active": "e025f3278dd9d296",
   "lastOpenFiles": [
-    "analysis/The squeeze Theorem.md",
-    "analysis/min函数.md",
-    "analysis/积分中值定理的证明(Mean Value Theorem forIntegrals).md",
-    "analysis/通过对换，约分简化高斯求解的计算量.md",
-    "analysis/logistic function累积分布函数积分问题.md",
-    "analysis/Exercises/谁是谁的原函数.md",
-    "analysis/自变量在指数的一种简单求导方法.md",
-    "analysis/两轨迹正交的分析综合证明.md",
-    "analysis/求使b∈Span{a₁,a₂}的h值.md",
-    "analysis/函数的有界性.md",
+    "gaokao/算术学：幂运算.md",
+    "gaokao/算术学：代入.md",
+    "gaokao/算术学：四则运算.md",
+    "analysis/Solve DE by integration.md",
+    "analysis/Linear Differential Equation.md",
+    "analysis/Separable Differential Equation.md",
+    "readme/Untitled.md",
     "gaokao/数列题和集合题结合.md",
-    "analysis/数学归纳法.md",
-    "analysis/Fermat's Theorem(费马引理).md",
-    "analysis/Exercises/弱化版的Darbox MVT.md",
-    "analysis/使用拆分法计算某些函数的n阶导数.md",
-    "analysis/证明经典结论：函数可导必定连续.md",
-    "analysis/等价无穷小.md",
-    "analysis/e的极限表达证明极限存在的构造斜率式证法.md",
-    "analysis/三角形和差化积解决一道两三角之积的积分问题.md",
-    "README.md",
     "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
-    "analysis/Logarithmic Differentiation.md",
-    "analysis/一类eˣ和三角函数之积的积分问题.md",
-    "advanced algebra/n阶行列式性质3：提取某一行（列）公因子不变性.md",
+    "analysis/MVT.md",
+    "analysis/nomogeneous linear systems的解法（parametric vector form写法）.md",
+    "analysis/The squeeze Theorem.md",
+    "analysis/e的极限表达证明极限存在的构造斜率式证法.md",
+    "analysis/The Monotone Bounded Convergence Theorem.md",
+    "analysis/求arccosx的积分问题.md",
     "analysis/抽象函数在区间内唯一解问题.md",
-    "analysis/复合函数连续性的传导法则.md",
+    "analysis/m rows and n column of matrix 乘m维向量.md",
+    "analysis/Linear Combination.md",
+    "analysis/Concavity Test的证明.md",
+    "analysis/Untitled 1.md",
+    "advanced algebra/R R.md",
+    "README.md",
+    "advanced algebra/Untitled.md",
+    "temp/Linear Transformation.md",
+    "temp/计算Matrix Product.md",
+    "temp/Ax=0.md",
+    "temp",
     "attached/image/analysis/使用圆弧面积求带根号的积分/file-20260113224340917.png",
     "attached/image/analysis/等价无穷小/file-20260113223359438.png",
     "attached/image/analysis/等价无穷小",
@@ -230,7 +272,6 @@
     "attached/正余弦函数和多项式的不定积分公式探究_项合并注解.png",
     "attached/Pasted image 20251221165412.png",
     "attached/Screenshot_20251214_183933_com.onyx.galaxy.note.png",
-    "jx2tkve2.zwc~",
     "analysis/高等代数框架.canvas",
     "Untitled 1.canvas"
   ]
