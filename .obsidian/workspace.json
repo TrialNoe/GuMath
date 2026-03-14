@@ -8,73 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af4c54ad9077b6ea",
+            "id": "0cca2213260e750d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaokao/高考中裂项求和问题.md",
+                "file": "gaokao/平面的截距式方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高考中裂项求和问题"
+              "title": "平面的截距式方程"
             }
           },
           {
-            "id": "da18c9f2d2fe2bc0",
+            "id": "d8621b534025510a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaokao/算术学：四则运算.md",
+                "file": "advanced algebra/n阶行列式性质5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算术学：四则运算"
-            }
-          },
-          {
-            "id": "f680d109ae3be4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaokao/二阶行列式的脑子算方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "二阶行列式的脑子算方法"
-            }
-          },
-          {
-            "id": "d28fe0a6375ba25e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e7ba6bd7520619dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Linear Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Transformation"
+              "title": "n阶行列式性质5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math_arithmetic",
+                "query": "截距",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,11 +88,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -235,47 +198,47 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f680d109ae3be4fa",
+  "active": "0cca2213260e750d",
   "lastOpenFiles": [
-    "gaokao/算术学：四则运算.md",
+    "advanced algebra/n阶行列式性质5.md",
+    "gaokao/平面的截距式方程.md",
+    "gaokao/高考中裂项求和问题.md",
+    "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
+    "advanced algebra/递推法求Vandermonde determinant.md",
+    "analysis/补项法.md",
+    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
+    "analysis/Langrange's Mean Value Theorem(拉格朗日中值定理).md",
+    "analysis/Partial Fraction Decomposition(部分分式分解).md",
+    "analysis/Taylor Polynomial.md",
+    "analysis/Solve DE by integration.md",
+    "analysis/MVT.md",
+    "analysis/参数方程的一二阶导函数推导.md",
+    "analysis/Exercises/利用向量Cross Product的几何性质证明代数性质.md",
+    "analysis/Exercises/Untitled.md",
+    "analysis/Exercises/SCAUAM-1-A-Ex7（Nested Radical）.md",
+    "analysis/Exercises/不动点原理.md",
+    "analysis/数学归纳法.md",
     "gaokao/二阶行列式的脑子算方法.md",
+    "gaokao/算术学：四则运算.md",
     "attached/image/gaokao/算术学：四则运算/bandicam 2026-03-10 22-34-07-112.mp4",
     "attached/image/gaokao/算术学：四则运算",
     "gaokao/算术学：代入.md",
     "gaokao/算术学：幂运算.md",
-    "analysis/补项法.md",
     "gaokao/算数学：分数运算.md",
     "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "gaokao/点到直线的距离推导.md",
-    "gaokao/高考中裂项求和问题.md",
-    "analysis/Partial Fraction Decomposition(部分分式分解).md",
     "temp/Linear Transformation.md",
-    "analysis/恒等式的常值函数证法.md",
-    "gaokao/一项拆开两项用的Partial Fractions级数收敛性问题.md",
-    "analysis/证明Harmonic Series发散.md",
     "attached/image/gaokao/点到直线的距离推导/file-20260304234706038.png",
     "attached/image/gaokao/点到直线的距离推导",
     "attached/image/gaokao",
     "attached/image/temp/Linear Transformation/file-20260304114049280.png",
     "attached/image/temp/Linear Transformation",
     "attached/image/temp",
-    "temp/Ax=0.md",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301224128977.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301223431485.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301223403938.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301222510729.png",
     "attached/image/analysis/证明Harmonic Series发散",
-    "advanced algebra/归纳假设.md",
-    "gaokao/数列题和集合题结合.md",
-    "analysis/证明{n!：nⁿ}收敛.md",
-    "readme/Latex.md",
-    "readme/自学指南.md",
-    "readme/结合LLM简化操作Prompt.md",
-    "readme/理解.md",
-    "readme/无用.md",
-    "readme/怎么构建自己的数学工具箱.md",
-    "README.md",
-    "有趣的函数图像.md",
     "attached/image/有趣的函数图像/file-20260226225209453.png",
     "attached/image/有趣的函数图像/file-20260226224647777.png",
     "attached/image/有趣的函数图像/file-20260226224455408.png",
