@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b2b34729849d5d9",
+            "id": "ba6ade3df26a6639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/曲线上找到一点与已知直线平行.md",
+                "file": "analysis/The Squeeze Theorem for Vector Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曲线上找到一点与已知直线平行"
+              "title": "The Squeeze Theorem for Vector Function"
             }
           },
           {
-            "id": "498923ceca0cfe81",
+            "id": "518dff8322f82f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/利用次数对齐判断多变量函数极限不存在.md",
+                "file": "analysis/The Squeeze Theorem for Vector Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "利用次数对齐判断多变量函数极限不存在"
-            }
-          },
-          {
-            "id": "501b3a5630fffd5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "analysis/对比利用平面束与多次求法向量求投影直线.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "对比利用平面束与多次求法向量求投影直线"
+              "title": "The Squeeze Theorem for Vector Function"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "截距",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -211,10 +199,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "498923ceca0cfe81",
+  "active": "518dff8322f82f72",
   "lastOpenFiles": [
-    "analysis/对比利用平面束与多次求法向量求投影直线.md",
+    "analysis/The Squeeze Theorem.md",
+    "analysis/The Squeeze Theorem for Vector Function.md",
     "analysis/利用次数对齐判断多变量函数极限不存在.md",
+    "analysis/Solve DE by Integration and Re-Differentiate.md",
+    "analysis/First and Second Derivative Tests.md",
+    "analysis/两个重要极限.md",
+    "analysis/夹挤定理（The Squeeze Theorem）和函数有界性的结合的例子.md",
+    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
+    "analysis/Exercises/可约分极限求参魔改大法-Plus.md",
+    "analysis/Partical Def可看作单变量函数简化求导.md",
+    "analysis/对比利用平面束与多次求法向量求投影直线.md",
     "analysis/曲线上找到一点与已知直线平行.md",
     "attached/image/analysis/曲线上找到一点与已知直线平行/file-20260316111636596.png",
     "attached/image/analysis/曲线上找到一点与已知直线平行",
@@ -229,20 +226,11 @@
     "analysis/Langrange's Mean Value Theorem(拉格朗日中值定理).md",
     "analysis/Partial Fraction Decomposition(部分分式分解).md",
     "analysis/Taylor Polynomial.md",
-    "analysis/Solve DE by integration.md",
     "analysis/MVT.md",
     "analysis/参数方程的一二阶导函数推导.md",
     "analysis/Exercises/利用向量Cross Product的几何性质证明代数性质.md",
-    "analysis/Exercises/Untitled.md",
-    "analysis/Exercises/SCAUAM-1-A-Ex7（Nested Radical）.md",
-    "analysis/Exercises/不动点原理.md",
-    "analysis/数学归纳法.md",
-    "gaokao/二阶行列式的脑子算方法.md",
-    "gaokao/算术学：四则运算.md",
     "attached/image/gaokao/算术学：四则运算/bandicam 2026-03-10 22-34-07-112.mp4",
     "attached/image/gaokao/算术学：四则运算",
-    "gaokao/算术学：代入.md",
-    "gaokao/算术学：幂运算.md",
     "attached/image/gaokao/点到直线的距离推导/file-20260304234706038.png",
     "attached/image/gaokao/点到直线的距离推导",
     "attached/image/gaokao",

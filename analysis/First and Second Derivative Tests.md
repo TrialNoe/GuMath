@@ -1,7 +1,7 @@
 ---
 tags:
   - math_calculus
-  - math_ideas_tools
+  - math
 ---
 
 ## First Derivative Tests

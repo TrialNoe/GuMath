@@ -7,9 +7,16 @@ tags:
 ## Understand
 在1st-order DE中无论是[[Linear Differential Equation]]还是[[Separable Differential Equation]]最终都还是要进行积分消除$\frac{ dy }{ dx }$
 而[[Linear Differential Equation]]利用的是**导数乘法法则**，[[Separable Differential Equation]]是利用了**方程的性质&微积分基本定理**
-既然这样是是不是还能利用**导数除法法则，链式法则**做一些事情呢？？
+
+
+## 导数乘法法则
+
+
 
 ## 除法法则
+既然这样是是不是还能利用**导数除法法则，链式法则**做一些事情呢？？
+
+
 ### 具体构造思考
 我们先从导数的除法法则出发
 $$
