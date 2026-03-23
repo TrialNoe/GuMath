@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#math_calculus  ",
+  "search": "tag:#math",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 15.6277875822236,
   "linkStrength": 0.835118838543496,
   "linkDistance": 107,
-  "scale": 1.1052447225014825,
+  "scale": 1.105244722501481,
   "close": true
 }

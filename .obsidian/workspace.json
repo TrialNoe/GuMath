@@ -11,10 +11,14 @@
             "id": "518dff8322f82f72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "probability/Native Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Native Probability"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:math_ideas_tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaokao/算术学：幂运算.md",
+                "file": "probability/Native Probability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 算术学：幂运算"
+              "title": "Outline of Native Probability"
             }
           },
           {
@@ -180,8 +184,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "afcfe348bbaf6141",
+  "active": "518dff8322f82f72",
   "lastOpenFiles": [
+    "attached/image/probability/Native Probability/file-20260323135153415.png",
+    "attached/image/probability/Native Probability",
+    "attached/image/probability",
+    "probability/Native Probability.md",
+    "gaokao/平面的截距式方程.md",
+    "probability/Tabular Counting.md",
+    "README.md",
+    "probability",
+    "有趣的函数图像.md",
+    "attached/image/README/README.md",
+    "attached/image/README",
+    "attached/image/有趣的函数图像/README.md",
     "analysis/The Squeeze Theorem for Vector Function.md",
     "analysis/The Squeeze Theorem.md",
     "analysis/利用次数对齐判断多变量函数极限不存在.md",
@@ -197,19 +213,11 @@
     "attached/image/analysis/曲线上找到一点与已知直线平行/file-20260316111636596.png",
     "attached/image/analysis/曲线上找到一点与已知直线平行",
     "gaokao/等比数列求和.md",
-    "gaokao/平面的截距式方程.md",
     "advanced algebra/n阶行列式性质5.md",
     "gaokao/高考中裂项求和问题.md",
     "advanced algebra/一个由组合数构成的Vandermonde Matrix问题.md",
     "advanced algebra/递推法求Vandermonde determinant.md",
     "analysis/补项法.md",
-    "analysis/Exercises/多个独立点的Lagrange's Mean Value Theorem 问题.md",
-    "analysis/Langrange's Mean Value Theorem(拉格朗日中值定理).md",
-    "analysis/Partial Fraction Decomposition(部分分式分解).md",
-    "analysis/Taylor Polynomial.md",
-    "analysis/MVT.md",
-    "analysis/参数方程的一二阶导函数推导.md",
-    "analysis/Exercises/利用向量Cross Product的几何性质证明代数性质.md",
     "attached/image/gaokao/算术学：四则运算/bandicam 2026-03-10 22-34-07-112.mp4",
     "attached/image/gaokao/算术学：四则运算",
     "attached/image/gaokao/点到直线的距离推导/file-20260304234706038.png",
@@ -217,17 +225,13 @@
     "attached/image/gaokao",
     "attached/image/temp/Linear Transformation/file-20260304114049280.png",
     "attached/image/temp/Linear Transformation",
-    "attached/image/temp",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301224128977.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301223431485.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301223403938.png",
     "attached/image/analysis/证明Harmonic Series发散/file-20260301222510729.png",
-    "attached/image/analysis/证明Harmonic Series发散",
     "attached/image/有趣的函数图像/file-20260226225209453.png",
     "attached/image/有趣的函数图像/file-20260226224647777.png",
     "attached/image/有趣的函数图像/file-20260226224455408.png",
-    "attached/image/有趣的函数图像",
-    "temp",
     "analysis/高等代数框架.canvas",
     "Untitled 1.canvas"
   ]
