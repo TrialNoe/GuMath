@@ -9,7 +9,7 @@ tags:
 > $(1)$存在$\xi \in (0,1)$,使得$f(\xi)=1-\xi$.
 > $(2)$存在两个不同的点$\zeta,\eta \in (0,1)$，使得$f'(\xi)f'(\eta)=1$
 
-## 1.零点存在定理
+## 1 1.零点存在定理
 
 > [!tip] 
 > 这个有个问题是会想成[[Langrange's Mean Value Theorem(拉格朗日中值定理)]]但是，这不是导函数和原函数信息的互推，做不出来的。
@@ -36,7 +36,7 @@ $$
 Q.E.D
 
 
-## 2.Lagrange's Mean Value Theorem
+## 2 2.Lagrange's Mean Value Theorem
 
 > [!tip]
 > 多个变量一个很基本的技巧是分两段
@@ -67,8 +67,8 @@ $$
 ![[多个独立点的Lagrange's Mean Value Theorem演示.png|500]]
 
 
-## 推广
-### 推广1 任意的端点
+## 3 推广
+### 3.1 推广1 任意的端点
 > [!question] 证明
 > 已知函数$f(x)$在$[a,b]$上连续，在$(a,b)$内可导，并且$f(a)=A,f(b)=B$，求证,存在两个不同的点$\zeta,\eta \in (a,b)$，使得$f'(\xi)\cdot f'(\eta)=\left( \frac{B-A}{b-a} \right)^{ 2 }.$
 
@@ -83,7 +83,7 @@ $$
 
 [[#^0230dd|古法炮制]]:
 
-### 推广3：3个LMVT point
+### 3.2 推广3：3个LMVT point
 
 > [!question] 证明
 > 已知函数$f(x)$在$[a,b]$上连续，在$(a,b)$内可导，并且$f(a)=A,f(b)=B$，求证,存在n个不同的点$\xi_{1},\xi_{2},\xi_{n} \in (a,b)$，使得$\prod_{i=1}^{ 3 }{f'(\xi_{n})}=\left( \frac{B-A}{b-a} \right)^{ 3 }.$
@@ -91,7 +91,7 @@ $$
 
 
 
-### 推广3：无穷多个LMVT point
+### 3.3 推广3：无穷多个LMVT point
 
 > [!question] 证明
 > 已知函数$f(x)$在$[a,b]$上连续，在$(a,b)$内可导，并且$f(a)=A,f(b)=B$，求证,存在n个不同的点$\xi_{1},\xi_{2}\dots \xi_{n} \in (a,b)$，使得$\prod_{i=1}^{ n }{f'(\xi_n)}=\left( \frac{B-A}{b-a} \right)^{ n }.$
