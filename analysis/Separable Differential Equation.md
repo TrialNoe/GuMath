@@ -10,7 +10,7 @@ y'  = \frac{dy}{dx}
 $$
 ^LagrangeLeibnizNotation
 
-## First-Order differential Equation
+## 1 First-Order differential Equation
 在这里更多是利用了这个核
 $$
 \frac{dy}{dx} = \frac{f(x)}{h(\mathbf{y})}
@@ -32,7 +32,7 @@ $$
 $$
 
 
-### 简单的例子
+### 1.1 简单的例子
 
 > [!example] 解微分方程
 > $$
@@ -55,7 +55,7 @@ $$
 只能是一阶使用吗？？
 
 
-## Test for Second-Order Differential Eqn
+## 2 Test for Second-Order Differential Eqn
 不妨来一个
 
 > [!note] Thinking
@@ -72,7 +72,7 @@ $$
 > 这样做本身时不合法的，**只有在一阶时才具有“类分数”的操作灵活性。**
 > So 只能在一阶使用
 
-## 简单的反例
+## 3 简单的反例
 
 > [!warning]
 > $$

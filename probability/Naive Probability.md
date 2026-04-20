@@ -7,7 +7,7 @@ tags:
 这其实就是我们高中的时候学的古典概型，但是以后可以拓展到无穷的地方。作为概率论**梦开始的地方**，还是很有意义的。
 ## 1 适用范围
 1. 事件等可能
-2. Sample Space is countable（如果Sample Space is incountable，就要去使用[[None-Native Probability]]这个工具了）
+2. Sample Space is countable（如果Sample Space is incountable，就要去使用[[Non-Naive Probability]]这个工具了）
 
 ## 2 IDEAs
 ### 2.1 Definition
@@ -28,7 +28,7 @@ Native Probability很重要的就是要做好**计数**工作，下面是一些�
 
 - 比如在掷2次骰子问题中，我们要求出两次的和为9的可能性。
   这时候我们可以列出一张表，行表示为第一次的点数，列表示为第二次的点数
-  根据[[#3.1 Mutipulication Couting]]我们可以知道，样本空间一共有$6^{ 2 }=36$种情况，下面列表来统计$Sum = 9$的情况
+  根据[[Naive Probability#3.1 Mutipulication Couting]]我们可以知道，样本空间一共有$6^{ 2 }=36$种情况，下面列表来统计$Sum = 9$的情况
 
 > [!example]
 > |     | 1   | 2   | 3     | 4     | 5     | 6     |
@@ -41,7 +41,7 @@ Native Probability很重要的就是要做好**计数**工作，下面是一些�
 > | 6   | 7   | 8   | ==9== | 10    | 11    | 12    |
 > 
 
- 可以看到一共有4种是符合的，根据[[#2.1 Definition]]很容易可以知道
+ 可以看到一共有4种是符合的，根据[[Naive Probability#2.1 Definition]]很容易可以知道
  $$
 p= \frac{4}{36} = \frac{1}{9}
 $$
@@ -53,7 +53,7 @@ $$
 
 ### 3.5 Plug-in Method
 这个其实就是高中时期的插板法
-![[file-20260323135153415.png]]
+![[file-20260327214601864.png]]
 #### 3.5.1 基本的问题
 最基本的问题是这样的
 

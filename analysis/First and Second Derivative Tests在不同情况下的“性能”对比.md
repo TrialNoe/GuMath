@@ -4,14 +4,14 @@ tags:
   - math_calculus
 ---
 
-## 例子对比
-### 1.0 可以因式分解的有理分式例子
+## 1 例子对比
+### 1.1 可以因式分解的有理分式例子
 > [!example]
 > $$
 > f(x) = \frac{x^2}{x-1}
 > $$
 
-#### 1.0.1 First derivative Tests
+#### 1.1.1 First derivative Tests
 $$
 f'(x)=\frac{2x(x-1)-1x^2}{(x-1)^2}=\frac{x^2-2x}{(x-1)^2}=\frac{x(x-2)}{(x-1)^2}
 $$
@@ -24,7 +24,7 @@ $$
 | $(1,2)$         | $+$       | $+$ | $-$   | $-$     | $\nwarrow$ |
 | $(2,\infty)$    | $+$       | $+$ | $+$   | $+$     | $\nwarrow$ |
 
-#### 1.0.2 Second derivative Tests
+#### 1.1.2 Second derivative Tests
 $$
 \begin{align}
 f''(x) & =\frac{(2x-2)(x-1)^2-2(x-1)(x^2-2x)}{(x-1)^4} \\
@@ -45,7 +45,7 @@ $$
 
 所以说极大值$f(0)=0$，极小值为$f(2)=4$
 
-#### 1.0.3 对比First and Second Derivative Tests
+#### 1.1.3 对比First and Second Derivative Tests
 
 很明显[[First and Second Derivative Tests#First Derivative Tests|First Derivative Tests]]**明显比**[[First and Second Derivative Tests#Second Derivative Tests|Second Derivative Tests]]**,性能要好。**
 究其原因我认为如下

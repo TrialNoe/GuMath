@@ -4,7 +4,7 @@ tags:
   - math_calculus
   - Math_source_material
 ---
-## 核心思路
+## 1 核心思路
 
 > [!tip]
 > 很重要的一点是对于[[利用次数对齐判断多变量函数极限不存在#例子2：拓展对于核的探究]]方法的补充，用于解决无法完成齐次赋值函数的求极限。
@@ -16,7 +16,7 @@ tags:
 - $$-1\leq\nabla\leq1$$
 - $$|\frac{\alpha x^{ 2 }+\beta y^{ 2 }}{x^{ 2 }+y^{ 2 }+z^{ 2 }}|=|\frac{\alpha x^{ 2 }}{x^{ 2 }+y^{ 2 }+z^{ 2 }}+\frac{\beta y^{ 2 }}{x^{ 2 }+y^{ 2 }+z^{ 2 }}|\leq |\alpha+\beta|$$
 
-## 问题引入
+## 2 问题引入
 求多元函数的极限
 
 > [!question]

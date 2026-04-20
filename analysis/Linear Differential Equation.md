@@ -3,12 +3,15 @@ tags:
   - "#math"
   - math_calculus
 ---
-$$
-\frac{dy}{dx} + P(x)y = Q(x)
-$$
-To solve the linear differential equation $y' + P(x)y = Q(x)$ multiply both sides 
-by the integrating factor $I(x) = e^{ \int P(x)\,dx }$ and then integrate both sides.
-## 由导数乘法公式构造？
+
+> [!question]
+> $$
+> \frac{dy}{dx} + P(x)y = Q(x)
+> $$
+> To solve the linear differential equation $y' + P(x)y = Q(x)$ multiply both sides 
+> by the integrating factor $I(x) = e^{ \int P(x)\,dx }$ and then integrate both sides.
+
+## 1 由导数乘法公式构造？
 我们知道
 $$
 [f(x)g(x)]' = f'(x)g(x) + f(x)g'(x)
@@ -16,7 +19,7 @@ $$
 所以就对上了
 
 
-## ?
+## 2 ?
 很容易有误区 我们暂时借用编程语言的等于和赋值来区分
 这里只考虑$y=0$
 $$
@@ -33,7 +36,7 @@ $$
 
 看了一下答案$(1)$是不用考虑$x==0$这种情况的。。。为什么？？？？
 
-## Bernoulli Differential Equation
+## 3 Bernoulli Differential Equation
 $$
 \frac{dy}{dx} + P(x)y = Q(x)y^{ n }
 $$

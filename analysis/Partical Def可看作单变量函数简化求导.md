@@ -4,7 +4,7 @@ tags:
   - math_calculus
   - Math_source_material
 ---
-## 启发性的题目
+## 1 启发性的题目
 
 > [!question]
 > 已知$r=\sqrt{x^{ 2 }+y^{ 2 }+z^{ 2 }}$，并且$u=\frac{1}{r}$，求$du$.
@@ -45,9 +45,6 @@ u'_{y}(r) = g'(y)u'(r) = \frac{y}{r}\cdot\left( -\frac{1}{r^{ 2 }} \right) \\
 u'_{y}(r) = h'(z)u'(r) = \frac{z}{r}\cdot\left( -\frac{1}{r^{ 2 }} \right)
 \end{align}
 $$
-
-
-
 $$
 du = -\frac{x+y+z}{-r^{ 3 }}
 $$
