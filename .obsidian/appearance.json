@@ -1,7 +1,9 @@
 {
   "cssTheme": "Things",
   "accentColor": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "call-out-equation"
+  ],
   "baseFontSizeAction": true,
   "baseFontSize": 15
 }

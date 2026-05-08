@@ -1,0 +1,34 @@
+/* 自定义 Equation Callout */
+.callout[data-callout="equation"] {
+    /* 设置颜色 (这里用的是淡雅的蓝色，可以自行调整) */
+    --callout-color: 0, 150, 136;
+    /* 设置图标 (使用 Lucide 图标库中的 functions 图标) */
+    --callout-icon: lucide-functions;
+    /* 背景色稍微浅一点，更有质感 */
+    background-color: rgba(0, 150, 136, 0.05);
+}
+
+/* 强制 Callout 内部的公式或文本居中 */
+.callout[data-callout="equation"] .callout-content {
+    text-align: center;
+
+}
+
+/* 调整标题样式，让它看起来更像数学定义 */
+.callout[data-callout="equation"] .callout-title-inner {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: "Times New Roman", "SimSun", serif;
+    letter-spacing: 1px;
+}
+
+.callout[data-callout="equation"] {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    /* 增加一点点阴影感 */
+}
+
+.callout[data-callout="equation"] .callout-content {
+    padding: 0.5em;
+    /* 增加公式周围的呼吸感 */
+}
