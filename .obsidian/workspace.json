@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercieses/Integral Test for Convergence and Divergence.md",
+                "file": "analysis/求arccosx的积分问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integral Test for Convergence and Divergence"
+              "title": "求arccosx的积分问题"
+            }
+          },
+          {
+            "id": "66ab884253691a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Integration by Parts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration by Parts"
+            }
+          },
+          {
+            "id": "5b788e5591f3c1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Integr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +240,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "335e7ea13b76a379",
+  "active": "5b788e5591f3c1b2",
   "lastOpenFiles": [
-    "exercieses/Sum Test.md",
+    "analysis/Integration by Parts.md",
+    "analysis/Untitled.md",
+    "analysis/求arccosx的积分问题.md",
     "exercieses/Integral Test for Convergence and Divergence.md",
+    "exercieses/Sum Test.md",
     "analysis/Exercises/步骤化求幂函数的积分.md",
     "exercieses/求ee的多项式展开.md",
     "exercieses/Term Test.md",
@@ -254,10 +286,7 @@
     "attached/image/exercieses/求两个曲面围成的立体图形体积",
     "attached/image/exercieses/求两个曲面围成的立体图形体积/file-20260420135502581.png",
     "attached/image/exercieses/求两个立体的",
-    "analysis/The Monotone Bounded Convergence Theorem.md",
     "attached/image/exercieses/Untitled",
-    "analysis/证明{n!：nⁿ}收敛.md",
-    "exercieses/cos x的绝对值求积分.md",
     "attached/image/exercieses/极坐标计算二重积分",
     "analysis/高等代数框架.canvas",
     "Untitled 1.canvas"
