@@ -144,5 +144,17 @@ $$
 $$
 所以
 $$
-\int \frac{1}{y}\,dy = \int  \, dx 
+\begin{align}
+\int \frac{1}{y}\,dy  & = \int \frac{1}{\frac{1-3v^{ 2 }}{2v}-v} \, dv = \int \frac{1}{\frac{1-3v^{ 2 }}{2v}-\frac{ 2v^{ 2 } }{ 2v }} \, dv \\
+ & =\int\frac{2v}{1-5v^{ 2 }}\,dv 
+\end{align}
 $$
+SO
+$$
+\begin{align}
+\ln \lvert y \rvert & =-\frac{1}{5}\ln \lvert 1-5v^{ 2 } \rvert +\ln c \\
+y & =e^{ -\frac{ 1 }{ 5 }\ln c\lvert 1-5v^{ 2 } \rvert  }= C{(1-5v^{ 2 })^{ - \frac{ 1 }{ 5 } }}
+\end{align}
+$$
+
+
