@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Limit Test for Convergence and Divegence"
             }
+          },
+          {
+            "id": "1a68612ace28e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercieses/求非原点的收敛域.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求非原点的收敛域"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,13 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -185,8 +198,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fd02d210410d8fa4",
+  "active": "1a68612ace28e4ad",
   "lastOpenFiles": [
+    "exercieses/Limit Test for Convergence and Divegence.md",
+    "exercieses/求非原点的收敛域.md",
     "exercieses/Comparison Test for Convergence and Divegence.md",
     "exercieses/Sum Test.md",
     "exercieses/基于偏导的二重积分计算通法.md",
@@ -197,7 +212,6 @@
     "attached/image/analysis/Homogenous DE的优化解法",
     "analysis/换元法.md",
     "一道问题.md",
-    "exercieses/Limit Test for Convergence and Divegence.md",
     "exercieses/U.md",
     "analysis/证明{n!：nⁿ}收敛.md",
     "analysis/求arccosx的积分问题.md",
@@ -222,7 +236,6 @@
     "attached/image/readme/自学指南",
     "exercieses/Green's Theorem.md",
     "exercieses/二重积分检查方法.md",
-    "readme/数学中记笔记的方法.md",
     "attached/image/README/怎么构建自己的数学工具箱/file-20260420232011227.png",
     "attached/image/readme/怎么构建自己的数学工具箱/file-20260420232011227.png",
     "attached/image/README/怎么构建自己的数学工具箱",
