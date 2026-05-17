@@ -11,10 +11,14 @@
             "id": "b15a651ebf8ae7b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Linear Differential Equation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linear Differential Equation"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tabular ",
+                "query": "Linear ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -179,8 +185,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ad849406e949f278",
+  "active": "b15a651ebf8ae7b9",
   "lastOpenFiles": [
+    "analysis/Exercises/Linear DF.md",
+    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
+    "gaokao/半Element Vector张成的平面的截距式方程.md",
     "analysis/Tabular Integration by Parts.md",
     "probability/Naive Probability.md",
     "analysis/Integration by Parts.md",
@@ -206,9 +215,6 @@
     "exercieses/Term Test.md",
     "Independence of events.md",
     "readme/自学指南.md",
-    "Random Varieties.md",
-    "Bayes's Rule.md",
-    "main.md",
     "attached/image/README/自学指南/file-20260427183735124.png",
     "attached/image/readme/自学指南/file-20260427183735124.png",
     "attached/image/README/自学指南/file-20260427183730006.png",
