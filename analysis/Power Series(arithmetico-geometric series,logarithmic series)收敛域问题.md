@@ -41,7 +41,7 @@ as $n\to \infty$
 $$
 \sum^{\infty}_{n} 0 = 0
 $$
-显然是收敛的。
+显然是收敛的，收敛域为$x \in (-\infty,\infty)$。
 
 ### 1.2 q>0
 when $x=\left\lvert \frac{1}{q} \right\rvert = \frac{1}{q}$
@@ -66,3 +66,18 @@ Convergent
 
 
 when $x= -\left\lvert \frac{1}{q} \right\rvert = \frac{1}{q}$
+$$
+\sum^{\infty}_{n}nq^{ n }\left(\frac{1}{q} \right)^{ n } = \sum^{\infty}_{n=1} \frac{1}{n}
+$$
+Divergent.
+
+----
+### 1.4 合并一下
+合并一下就是
+
+$$
+x \in \left[ -\left\lvert\frac{1}{q}\right\rvert,\left\lvert \frac{1}{q} \right\rvert \right)
+$$
+
+(q是0的时候倒过来不就是无穷大了吗，所以不用管)
+

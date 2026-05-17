@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f745e5793d189a83",
+  "active": "ff6f375f6e808bd9",
   "lastOpenFiles": [
-    "analysis/Power Series.md",
     "analysis/Power Series(arithmetico-geometric series,logarithmic series)收敛域问题.md",
+    "analysis/Power Series.md",
     "analysis/Linear Differential Equation.md",
     "analysis/Exercises/Linear DF.md",
     "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
