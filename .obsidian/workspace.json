@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Representation of Power Series.md",
+                "file": "analysis/Conservative Vector Field.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Representation of Power Series"
+              "title": "Conservative Vector Field"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -186,9 +187,10 @@
   "active": "a0a06ee8eeade7b3",
   "lastOpenFiles": [
     "Representation of Power Series.md",
+    "analysis/Conservative Vector Field.md",
     "main.md",
     "analysis/Linear Differential Equation.md",
-    "analysis/89考研问题.md",
+    "analysis/Exercises/89考研问题.md",
     "Root Test for Series.md",
     "analysis/Homogenous DE的优化解法.md",
     "analysis/Power Series(arithmetico-geometric series,logarithmic series)收敛域问题.md",
@@ -212,7 +214,6 @@
     "analysis/换元法.md",
     "一道问题.md",
     "exercieses/U.md",
-    "analysis/证明{n!：nⁿ}收敛.md",
     "attached/image/README/自学指南/file-20260427183735124.png",
     "attached/image/readme/自学指南/file-20260427183735124.png",
     "attached/image/README/自学指南/file-20260427183730006.png",
