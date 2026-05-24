@@ -15,7 +15,7 @@ tags:
 > 那么就可以知道，这个$\mathbf{F}$是Conservative Vector Field.有一个很好的性质是The line integral is independent of path
 
 ### 1.1 步骤化
-1. 设出$P(x,y)$与$Q(x,y)$
+1. 找出$P(x,y)$与$Q(x,y)$
 2. 验证是否$\frac{ \partial P(x,y) }{ \partial y }=\frac{ \partial Q(x,y) }{ \partial x }$
 
 ## 2 3-dimension推广
@@ -38,5 +38,6 @@ $$
 $$
 是否也是存在这样的
 $$
-\frac{ \partial \left(\frac{ \partial F }{ \partial x_{i} } \right) }{ \partial x }  = \frac{ \partial F }{ \partial x }  
+\frac{ \partial F_{i} }{ \partial x_{j} } = \frac{ \partial F_{j} }{ \partial x_{i} }  
 $$
+for any $i\neq j$
