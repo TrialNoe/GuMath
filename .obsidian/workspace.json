@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/Conservative Vector Field.md",
+                "file": "analysis/Exercises/一个三角和幂函数混合的级数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conservative Vector Field"
+              "title": "一个三角和幂函数混合的级数"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "a0a06ee8eeade7b3",
   "lastOpenFiles": [
-    "Representation of Power Series.md",
     "analysis/Conservative Vector Field.md",
+    "analysis/Exercises/一个三角和幂函数混合的级数.md",
+    "Representation of Power Series.md",
     "main.md",
     "analysis/Linear Differential Equation.md",
     "analysis/Exercises/89考研问题.md",
@@ -213,7 +214,6 @@
     "attached/image/analysis/Homogenous DE的优化解法",
     "analysis/换元法.md",
     "一道问题.md",
-    "exercieses/U.md",
     "attached/image/README/自学指南/file-20260427183735124.png",
     "attached/image/readme/自学指南/file-20260427183735124.png",
     "attached/image/README/自学指南/file-20260427183730006.png",
