@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "一个三角和幂函数混合的级数"
             }
+          },
+          {
+            "id": "1ba5ef80b0a8af9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Exercises/二阶线性微分方程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二阶线性微分方程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "未定",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -184,10 +199,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a0a06ee8eeade7b3",
+  "active": "1ba5ef80b0a8af9a",
   "lastOpenFiles": [
-    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "analysis/Exercises/一个三角和幂函数混合的级数.md",
+    "analysis/Exercises/二阶线性微分方程.md",
+    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "analysis/Conservative Vector Field.md",
     "Representation of Power Series.md",
     "main.md",
@@ -213,7 +229,6 @@
     "attached/image/analysis/Homogenous DE的优化解法/file-20260512104032558.png",
     "attached/image/analysis/Homogenous DE的优化解法",
     "analysis/换元法.md",
-    "一道问题.md",
     "attached/image/README/自学指南/file-20260427183735124.png",
     "attached/image/readme/自学指南/file-20260427183735124.png",
     "attached/image/README/自学指南/file-20260427183730006.png",
