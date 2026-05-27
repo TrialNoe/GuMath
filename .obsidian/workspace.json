@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "root test",
+                "query": "未定",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -186,8 +186,9 @@
   },
   "active": "a0a06ee8eeade7b3",
   "lastOpenFiles": [
-    "analysis/Conservative Vector Field.md",
+    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "analysis/Exercises/一个三角和幂函数混合的级数.md",
+    "analysis/Conservative Vector Field.md",
     "Representation of Power Series.md",
     "main.md",
     "analysis/Linear Differential Equation.md",
@@ -198,7 +199,6 @@
     "exercieses/Integral Test for Convergence and Divergence.md",
     "analysis/Power Series.md",
     "analysis/Exercises/Linear DF.md",
-    "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "gaokao/半Element Vector张成的平面的截距式方程.md",
     "analysis/Tabular Integration by Parts.md",
     "probability/Naive Probability.md",
