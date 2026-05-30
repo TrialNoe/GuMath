@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/Exercises/二阶线性微分方程.md",
+                "file": "analysis/Exercises/方向导数(Directional Derivative).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二阶线性微分方程"
+              "title": "方向导数(Directional Derivative)"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -200,8 +201,9 @@
   },
   "active": "1ba5ef80b0a8af9a",
   "lastOpenFiles": [
-    "analysis/Exercises/一个三角和幂函数混合的级数.md",
     "analysis/Exercises/二阶线性微分方程.md",
+    "analysis/Exercises/方向导数(Directional Derivative).md",
+    "analysis/Exercises/一个三角和幂函数混合的级数.md",
     "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
     "analysis/Conservative Vector Field.md",
     "Representation of Power Series.md",
@@ -227,7 +229,6 @@
     "exercieses/Rotio Test for Convergence and Divergence.md",
     "attached/image/analysis/Homogenous DE的优化解法/file-20260512104032558.png",
     "attached/image/analysis/Homogenous DE的优化解法",
-    "analysis/换元法.md",
     "attached/image/README/自学指南/file-20260427183735124.png",
     "attached/image/readme/自学指南/file-20260427183735124.png",
     "attached/image/README/自学指南/file-20260427183730006.png",
