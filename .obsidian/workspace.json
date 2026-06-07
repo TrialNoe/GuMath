@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lagrange's ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -184,7 +184,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a0a06ee8eeade7b3",
+  "active": "69d578d0c850cbca",
   "lastOpenFiles": [
     "analysis/证明函数单调性的性质.md",
     "analysis/Exercises/方向导数(Directional Derivative).md",
