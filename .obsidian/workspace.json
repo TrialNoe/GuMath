@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaokao/2026年数学新课表1卷.md",
+                "file": "analysis/对比利用平面束与多次求法向量求投影直线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026年数学新课表1卷"
+              "title": "对比利用平面束与多次求法向量求投影直线"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lagrange's ",
+                "query": "投影直线",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -184,10 +185,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "69d578d0c850cbca",
+  "active": "a0a06ee8eeade7b3",
   "lastOpenFiles": [
-    "analysis/Exercises/一个三角和幂函数混合的级数.md",
     "gaokao/2026年数学新课表1卷.md",
+    "analysis/Exercises/一个三角和幂函数混合的级数.md",
     "analysis/证明函数单调性的性质.md",
     "analysis/Exercises/方向导数(Directional Derivative).md",
     "attached/image/analysis/Exercises/方向导数(Directional Derivative)/Snipaste_2026-05-30_18-49-09.png",
