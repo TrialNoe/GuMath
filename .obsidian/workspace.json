@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/对比利用平面束与多次求法向量求投影直线.md",
+                "file": "analysis/Exercises/89考研问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "对比利用平面束与多次求法向量求投影直线"
+              "title": "89考研问题"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "投影直线",
+                "query": "Linear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a0a06ee8eeade7b3",
+  "active": "ad849406e949f278",
   "lastOpenFiles": [
+    "analysis/Power Series.md",
+    "analysis/Conservative Vector Field.md",
+    "analysis/对比利用平面束与多次求法向量求投影直线.md",
     "gaokao/2026年数学新课表1卷.md",
     "analysis/Exercises/一个三角和幂函数混合的级数.md",
     "analysis/证明函数单调性的性质.md",
@@ -195,7 +197,6 @@
     "attached/image/analysis/Exercises",
     "analysis/Exercises/二阶线性微分方程.md",
     "analysis/Exercises/华南农业大学2022-2023学年第1学期T7.md",
-    "analysis/Conservative Vector Field.md",
     "Representation of Power Series.md",
     "main.md",
     "analysis/Linear Differential Equation.md",
@@ -204,7 +205,6 @@
     "analysis/Homogenous DE的优化解法.md",
     "analysis/Power Series(arithmetico-geometric series,logarithmic series)收敛域问题.md",
     "exercieses/Integral Test for Convergence and Divergence.md",
-    "analysis/Power Series.md",
     "analysis/Exercises/Linear DF.md",
     "gaokao/半Element Vector张成的平面的截距式方程.md",
     "analysis/Tabular Integration by Parts.md",
@@ -214,7 +214,6 @@
     "exercieses/Limit Test for Convergence and Divegence.md",
     "exercieses/Comparison Test for Convergence and Divegence.md",
     "exercieses/Sum Test.md",
-    "exercieses/基于偏导的二重积分计算通法.md",
     "attached/image/analysis/Homogenous DE的优化解法/file-20260512104032558.png",
     "attached/image/analysis/Homogenous DE的优化解法",
     "attached/image/README/自学指南/file-20260427183735124.png",
