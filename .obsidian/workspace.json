@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/Exercises/89考研问题.md",
+                "file": "analysis/Homogenous DE的优化解法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "89考研问题"
+              "title": "Homogenous DE的优化解法"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linear",
+                "query": "齐次",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d6ac82c7a95be68",
@@ -183,8 +185,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ad849406e949f278",
+  "active": "a0a06ee8eeade7b3",
   "lastOpenFiles": [
+    "analysis/Exercises/89考研问题.md",
     "analysis/Power Series.md",
     "analysis/Conservative Vector Field.md",
     "analysis/对比利用平面束与多次求法向量求投影直线.md",
@@ -200,7 +203,6 @@
     "Representation of Power Series.md",
     "main.md",
     "analysis/Linear Differential Equation.md",
-    "analysis/Exercises/89考研问题.md",
     "Root Test for Series.md",
     "analysis/Homogenous DE的优化解法.md",
     "analysis/Power Series(arithmetico-geometric series,logarithmic series)收敛域问题.md",
